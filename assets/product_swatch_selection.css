@@ -1,0 +1,212 @@
+
+  	
+
+      
+  .swatch-element.color label {	
+    width: 60px !important;
+    height: 60px !important;
+    border: none;
+    position" relative;
+    overflow: hidden;
+    border-radius: 100px;
+    -webkit-mask-image: -webkit-radial-gradient(white, black);
+  }	
+  /* added width for mobile - am */
+  @media only screen and (max-width: 480px) {
+    .swatch-element.color label {	
+    width: 62px !important;
+    height: 62px !important;
+    }
+  }
+
+/* no ease on swatch images on hover so there's no bounce when selecting */
+  /* .swatch-element.color label img {
+    -webkit-transition: all 300ms ease;
+    transition: all 300ms ease;
+  } */
+
+  /* .swatch-element.color label:hover   */
+  /* .swatch__image:hover  {
+    -webkit-transform: translate3d(0, 0, 0) scale(1.4, 1.4);
+    -moz-transform: translate3d(0, 0, 0) scale(1.4, 1.4);
+    transform: translate3d(0, 0, 0) scale(1.4, 1.4);
+  } */
+
+  .swatch_options {	
+    display: flex;	
+    flex-direction: column;	
+  }
+      
+  .swatch_options .swatch-color {	
+    order: -1;
+    display: flex;
+    gap: 0px 4px;
+  }
+  
+  .swatch_options .swatch-color > .label {
+    grid-column-start: 1;
+    grid-column-end: -1;
+  }
+  
+      
+  .swatch-element {	
+    position: relative;	
+    border: none !important;	
+  }	
+      
+  .swatch-element::before {	
+    content: "";	
+    position: absolute;	
+    width: 100%;	
+    height: 100%;	
+    border: 1px solid #e2e2e2;	
+    border-image-slice: 1;	
+    top: 0;	
+    left: 0;	
+    z-index: 1;	
+    pointer-events: none;
+    border-radius: 100px;
+  }	
+      
+  .swatch_options input:checked+.swatch-element::before {	
+  /*     border-image-source: linear-gradient(to left, #e26e3a, #f3b846); */
+    border-width: 2px;
+    border-color: transparent;
+    
+    border-radius: 100px;
+    background-image: linear-gradient(white, white), linear-gradient(to left, #e26e3a, #f3b846);
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    z-index: -1;
+  }
+  
+  .swatch_options input:checked .label-container {
+    border-radius: 100px;
+  }
+      
+  .swatch-element,	
+  .swatch-element.color {	
+    border-image-slice: 1;
+    border-width: 1px;
+    padding: 2px;
+  }	
+      
+   .swatch-element.soldout {	
+    position: relative;	
+    border-style: dashed;
+    opacity: 1;
+  }
+
+  /* .swatch-element.soldout img:not(:hover) {	
+    opacity: .6
+  } */
+  .swatch-element.soldout label {	
+    opacity: .6 !important;
+  }
+  .swatch-element.soldout label:hover {	
+    opacity: 1 !important;
+  }
+
+  .label-container {
+    position: relative;
+  }
+  
+  .swatch-element.soldout .label-container::before,
+  .swatch-element.soldout .label-container::after {
+    content: "";	
+    position: absolute;	
+    width: 1px;	
+    height: 100%;	
+    top: 50%;	
+    left: 50%;	
+    background: red;	
+    z-index: 1;
+    border: none;
+    transition: opacity 300ms ease;
+    pointer-events: none;
+  }
+  
+  .swatch-element.soldout .label-container::before {	
+    transform: translate3d(-50%, -50%, 0) rotate(-45deg);	
+  }	
+      
+  .swatch-element.soldout .label-container::after {	
+    transform: translate3d(-50%, -50%, 0) rotate(45deg);	
+  }
+  
+  .swatch-element.soldout .label-container:hover::before,
+  .swatch-element.soldout .label-container:hover::after {
+    opacity: 0;
+  }
+
+  .swatch-element .tooltip {
+    display: none;
+  }
+  
+  @media(min-width: 1200px) {
+    .swatch-element .tooltip {
+      display: block;
+      margin-left: 9px;
+    }
+  }
+      
+  .option-unavailable {	
+  /*     visibility: hidden; */	
+  }	
+      
+   .option-unavailable-custom {	
+    color: #cf6b39;	
+  } 
+      
+  .option-unavailable.is-hidden {	
+    display: none;	
+  }
+  
+  .option-unavailable .selected {
+    color: #000;
+  }
+  
+  .swatch {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  .swatch .option-title {	
+    display: flex;	
+  }
+      
+  .swatch-size {	
+    position: relative;	
+  }	
+      
+  @keyframes placeHolderShimmer{	
+    0%{	
+      background-position: -468px 0	
+    }	
+    100%{	
+      background-position: 468px 0	
+    }	
+  }	
+      
+  .swatch-size.is-loaded::before {	
+    display: none;	
+  }	
+      
+  .button--add-to-cart.disabled {	
+  /*     display: none; */	
+  }	
+      
+  .label-container {
+    overflow: hidden;
+    border-radius: 100px;
+  }
+  
+  .swatch .tooltip {
+    pointer-events: none;
+  }
+  .swatch [data-variant-option-available="false"] + .swatch-element label{
+    text-decoration: none;
+    opacity: 1;
+    color: black;
+  }
+  
+  

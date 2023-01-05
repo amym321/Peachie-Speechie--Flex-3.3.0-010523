@@ -1,0 +1,98 @@
+{%- comment -%} new RV section per theme update  {%- endcomment -%}
+
+{% assign id = section.id %}
+{% assign css_class = section.settings.css_class %}
+{% assign custom_css = section.settings.custom_css %}
+
+{% render 'recently-viewed',
+	product_handle: handle,
+	section_title: section.settings.title,
+	max_products: section.settings.maxProducts,
+  css_class: css_class
+%}
+
+{% style %}
+  {%
+    render 'css-loop',
+    css: custom_css,
+    id: id
+  %}
+{% endstyle %}
+
+
+<script>
+  var maximumRecentlyVisited = {{section.settings.maxProducts}} + 1;
+  var currentHandle = '{{handle}}'
+  var currentObject = {
+    handle: "{{handle}}",
+    productUrl: "{{product.url}}",
+    productPriceVaires: "{{product.price_varies}}",
+    productPriceMin: "{{product.price | money_with_currency }}",
+    productPriceMinFloat: "{{product.price}}",
+    productPriceMax: "{{product.compare_at_price_max | money_with_currency }}",
+    productCompareAtPriceMin: "{{ product.compare_at_price_min | money_with_currency }}",
+    productCompareAtPriceFormatted: "{{ product.compare_at_price | money_with_currency }}",
+    imageUrl: "{{ product.featured_image  | img_url: 'master' }}",
+    imageUrl2: "{{ product.media[1]  | default: product.featured_image | img_url: 'master' }}",
+    title: "{{product.title}}",
+    available: {{product.available}},
+    productPrice: {{product.price}},
+    productCompareAtPrice: {{ product.compare_at_price | json }},
+    starRating: {{product.metafields.reviews.rating.value.rating | default: 0 }},
+    starScale: {{product.metafields.reviews.rating.value.scale_max | default: 5 }}
+  }
+  var recentlyVisited = JSON.parse(window.localStorage.getItem("recentlyVisited"))
+
+  if (recentlyVisited) {
+    if (!recentlyVisited.map(x => x.handle).includes(currentHandle)) {
+      if (recentlyVisited.length === maximumRecentlyVisited) {
+        recentlyVisited.shift()
+      }
+      recentlyVisited.push(currentObject)
+      window.localStorage.setItem("recentlyVisited", JSON.stringify(recentlyVisited))
+    }
+  } else {
+    window.localStorage.setItem("recentlyVisited", JSON.stringify([currentObject]))
+  }
+</script>
+
+
+
+{% schema %}
+  {
+    "name": "Recently Viewed Products",
+    "class": "recently-viewed-section",
+    "templates": [
+      "product"
+    ],
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "placeholder": "Recently Viewed Products",
+        "default": "Recently Viewed Products",
+        "info": "Section title",
+		    "label": "Section title"
+      },
+      {
+        "type": "range",
+        "id": "maxProducts",
+        "min": 5,
+        "max": 15,
+        "step": 1,
+        "default": 10,
+		    "label": "Max products to show"
+      },
+      {
+        "type": "text",
+        "id": "css_class",
+        "label": "CSS Class"
+      },
+      {
+        "type": "textarea",
+        "id": "custom_css",
+        "label": "Custom CSS"
+      }
+    ]
+  }
+{% endschema %}

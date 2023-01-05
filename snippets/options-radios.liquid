@@ -1,0 +1,182 @@
+{% comment %}
+  Display variant options for a product
+
+  @param selected_variant
+{% endcomment %}
+
+{% assign swatch_trigger = settings.swatch_trigger | strip | downcase %}
+{% assign file_extension = 'png' %}
+
+{% assign loop_index = option_index | plus: 1 %}
+{%- assign swatch_option_key = 'option' | append: loop_index -%}
+
+{%- comment -%} sort order for Size option - am {%- endcomment -%}
+{% assign sort_options = settings.sort_options | strip_newlines | split: "," %}
+{% assign has_color = false %}
+{% assign has_size = false %}
+
+{% for value in option.values %}
+  {% assign has_option_name = option.name | downcase %}
+  {% if show_swatches and has_option_name == swatch_trigger %}
+    {% assign has_color = true %}
+  {% endif %}
+{% endfor %}
+  
+{% for value in option.values %}
+  {% assign has_option_name = option.name | downcase %}
+  {% if has_option_name contains 'size' %}
+    {% assign has_size = true %}
+  {% endif %}
+{% endfor %}
+
+
+<fieldset class="swatch {% if has_size %} swatch-size {% else if has_color %}swatch-color{% endif %}
+  is-flex is-flex-wrap" data-option-index="{{ option_index }}">
+  <legend class="option-title label">
+    <span
+      class="options-selection__option-name option-unavailable"
+      data-variant-option-name="{{ 'product.variants.chosen_option_html' | t: option: option.name, value: option.selected_value | escape }}"
+      data-variant-option-choose-name="{{ 'product.variants.choose_option' | t: option: option.name }}"
+    >
+      {% if selected_variant %}
+        {{ 'product.variants.chosen_option_html' | t: option: option.name, value: option.selected_value }}
+      {% else %}
+        {%- comment -%} removed for new variant selection logic - am {%- endcomment -%}
+        {%- comment -%} {{ 'product.variants.choose_option' | t: option: option.name }} {%- endcomment -%}
+      {% endif %}
+    </span>
+  </legend>
+  <div
+    class="swatch__options {% if has_color %}swatch-color-wrapper{% endif %}"
+    data-variant-option
+    data-variant-option-index="{{ option_index }}"
+    data-variant-option-chosen-value="{% if selected_variant %}{{ option.selected_value }}{% else %}false{% endif %}"
+  >
+    {% for value in option.values %}
+      {% assign option_name = option.name | downcase %}
+
+      {% if show_swatches and option_name == swatch_trigger %}
+        {% assign is_color = true %}
+      {% endif %}
+
+      {% if option_name == swatch_trigger %}
+        {% assign swatch_search_color = value | downcase %}
+        {% assign variant_index = 1 %}
+        
+        {% for variant in product.variants %}
+          {% assign option_value_downcased = variant[swatch_option_key] | downcase %}
+          {% if option_value_downcased == swatch_search_color %}
+            {%- comment -%} 1st variant image in 1st color swatch - am {%- endcomment -%}
+            {% if variant_index == 1 %}
+              {% assign swatch_file_url = variant.image | img_url: 'small' %}
+            {% endif %}
+            {% assign variant_index = variant_index| plus: 1 %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+
+      <div class="swatch__option  {% if has_size %}size-order-div{% endif %} {% if has_color %}color-order-div{% endif %}" 
+        {% if has_size %}data-size_order="{{ value }}"{% endif %}
+        data-variant-option-value-wrapper
+      >
+        <input
+          class="swatch--{{ value | handle }}"
+          type="radio"
+          aria-label="{{ value | escape }}"
+          tabindex="0"
+          name="option-{{ option_index }}"
+          value="{{ value | escape }}"
+          {% if selected_variant and option.selected_value == value %}checked{% endif %}
+          data-variant-option-value
+          data-variant-option-value-index="{{ option_index }}"
+        />
+        <div
+          aria-label="{{ value | escape }}"
+          tabindex="0"
+          data-value="{{ value | escape }}"
+          data-value-handle="{{ value | handle }}"
+          class="swatch-element {% if is_color %}color {% endif %} {% if has_size %}size {% endif %} {{ value | handle }}-swatch"
+        >
+          {% if is_color %}
+            <div class="tooltip">{{ value }}</div>
+          {% endif %}
+          {% if is_color %}
+            <div class="label-container">
+            <label
+              style="
+                {% if settings.swatches_option_style == 'variant_image' and product.variants[forloop.index0].image != blank %}
+                  background-image: url({{ swatch_file_url }});
+                {% else %}
+                  background-color: {{ value | split: ' ' | last | handle }};
+                {% endif %}
+              "
+              data-variant-option-value-label
+              data-variant-image="{% if settings.swatches_option_style == 'variant_image' and product.variants[forloop.index0].image != blank %}true{% endif %}"
+            >
+
+              {% if product.variants[forloop.index0].image == blank or settings.swatches_option_style != 'variant_image' %}
+                {% assign image_name = value | handle | append: '.' | append: file_extension %}
+                {% assign swatch = images[image_name] %}
+              {% endif %}
+
+              <img class="swatch__image {% if swatch == empty %}swatch__image--empty{% endif %}" src="{{ swatch_file_url }}" alt="">
+
+              <span class="crossed-out" aria-label="{{ 'products.product.sold_out' | t }}" alt="{{ 'products.product.sold_out' | t }}"></span>
+            </label>
+          </div>
+          {% elsif has_size %}
+          <div class="label-container">
+
+            <label
+              data-variant-option-value-label
+            >
+              {{ value }}
+              <span class="crossed-out" aria-label="{{ 'products.product.sold_out' | t }}" alt="{{ 'products.product.sold_out' | t }}"></span>
+            </label>
+          </div>
+          {% else %}
+          <div class="label-container">
+
+            <label
+              data-variant-option-value-label
+            >
+              {{ value }}
+              <span class="crossed-out" aria-label="{{ 'products.product.sold_out' | t }}" alt="{{ 'products.product.sold_out' | t }}"></span>
+            </label>
+          </div>
+          {% endif %}
+          <script class="id-script">
+            (function() {
+              const idScriptEl = document.querySelector('.id-script:not(.id-script--processed)');
+              const idScriptsProcessed = document.querySelectorAll('.id-script.id-script--processed').length;
+              const variantOptionValueWrapper = idScriptEl.closest('[data-variant-option-value-wrapper]');
+              const variantOptionValue = variantOptionValueWrapper.querySelector('[data-variant-option-value]');
+              const variantOptionValueLabel = variantOptionValueWrapper.querySelector('[data-variant-option-value-label]');
+              variantOptionValue.id = `{{ product.id }}-${idScriptsProcessed}`;
+              variantOptionValueLabel.setAttribute('for', `{{ product.id }}-${idScriptsProcessed}`);
+              idScriptEl.classList.add('id-script--processed');
+            })();
+          </script>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</fieldset>
+
+
+{%- comment -%}  order of sizes, theme update- am {%- endcomment -%}
+<script>
+  window.onload = () => {
+    let actualOrder = {{sort_options | json}};
+    actualOrder = actualOrder.map(s => s.toLowerCase());
+    $('.size-order-div').each(function(index, data) {
+      let currentOrder = $(data).data('size_order') || '';
+      let pos = actualOrder.indexOf(currentOrder.toString().toLowerCase());
+      if(pos !== -1) {
+      	$(data).css('order', pos+2);
+      }
+    });
+    
+    $(".swatch-size").addClass("is-loaded");
+  }
+</script>
