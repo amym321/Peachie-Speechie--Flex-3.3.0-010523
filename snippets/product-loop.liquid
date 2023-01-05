@@ -27,10 +27,8 @@
 
 {% for product in products limit: for_limit %}
 
-  {%- comment -%} theme update - am {%- endcomment -%}
-  {% comment %} === Hide all products with a tag of "hide" {% endcomment %}
-  {% unless product.tags contains 'hidden-recommendation' %}
-
+  {% comment %} capture so we can run unless we Hide products with tag "hide" or "hidden" from Recommendations {% endcomment %}
+  {% capture product_loop_markeup %}
     
   {% comment %} Skip product if we're on its product page {% endcomment %}
   {% if product.id != skip_product.id %}
@@ -47,6 +45,17 @@
     %}
   {% endif %}
 
-  {% endunless %}
+  {% endcapture %}
+
+  {% comment %} Hide products with tag "hide" or "hidden" from Recommendations {% endcomment %}
+  {% if context == 'product_recommendations' %}
+    {% unless product.tags contains 'hidden-recommendation' %}
+      {% unless product.tags contains 'hide' %}
+        {{product_loop_markeup}}
+      {% endunless %}
+    {% endunless %}
+  {% else %}
+    {{product_loop_markeup}}
+  {% endif %}
 
 {% endfor %}

@@ -57,10 +57,8 @@ product_recommendations: <boolean>
     data-products-available="{{ products_length }}">
   {% for product in products limit: loop_limit %}
 
-    {%- comment -%} add- theme update - am {%- endcomment -%}
-    {% comment %} === Hide all products with a tag of "hide" {% endcomment %}
-    {% unless product.tags contains 'hide' %}
-      
+  {% comment %} capture so we can run unless we Hide products with tag "hide" or "hidden" from Recommendations {% endcomment %}
+  {% capture product_slider_markeup %}
 
     {%- assign collection_handles = product.collections | map: 'handle' -%}
 
@@ -185,6 +183,19 @@ product_recommendations: <boolean>
         %}
       </div>
     {% endif %}
-  {% endunless %}
+  
+  {% endcapture %}
+
+  {% comment %} Hide products with tag "hide" or "hidden" from Recommendations {% endcomment %}
+  {% if context == 'product_recommendations' %}
+    {% unless product.tags contains 'hidden-recommendation' %}
+      {% unless product.tags contains 'hide' %}
+        {{product_slider_markeup}}
+      {% endunless %}
+    {% endunless %}
+  {% else %}
+    {{product_slider_markeup}}
+  {% endif %}
+
   {% endfor %}
 </div>
