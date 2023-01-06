@@ -753,6 +753,14 @@
             "button_label": "View products"
           }
         },
+        "74a8e6f3-d4b0-4d9a-8a5e-44eca99e32b4": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "good-vibrations",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "5d4dda81-adcf-49ad-8c72-b6c075536596": {
           "type": "collection",
           "settings": {
@@ -820,6 +828,7 @@
         "3eb4ab5a-c19d-45b4-985f-2d80c19c0b24",
         "f2e721c0-74df-47db-9833-b308269c3f1b",
         "12eeac49-438a-46f8-b8c6-f2fb5e30d76e",
+        "74a8e6f3-d4b0-4d9a-8a5e-44eca99e32b4",
         "5d4dda81-adcf-49ad-8c72-b6c075536596",
         "86e3e5c5-394c-453b-b574-a27290781995",
         "f81c113b-d9c9-4590-803a-4e505faed26d",
@@ -915,6 +924,14 @@
             "button_label": "View products"
           }
         },
+        "96cfade5-cb36-49ac-ad62-933fcd7f3e84": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-dino",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "e761da3c-a90d-48c9-9a4f-1a00c5ca9428": {
           "type": "collection",
           "settings": {
@@ -927,14 +944,6 @@
           "type": "collection",
           "settings": {
             "feature_collection": "jawsome-speech",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "96cfade5-cb36-49ac-ad62-933fcd7f3e84": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "speech-dino",
             "title": "",
             "button_label": "View products"
           }
@@ -962,6 +971,22 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "59cfe267-8c90-4bf2-afec-3c51bf92b72e": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "beach-please",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "607a12ef-6b96-447e-a292-c144a3492b1a": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "beach-therapist",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -970,12 +995,14 @@
         "template--14604693340257__bc9fe864-4055-4971-a915-383a6007a2a2-167296725468fb0150-2",
         "d454ccf5-113f-477a-bba5-3b7002e88ec2",
         "8be0a1fe-6a74-4f73-ab49-25d808818d23",
+        "96cfade5-cb36-49ac-ad62-933fcd7f3e84",
         "e761da3c-a90d-48c9-9a4f-1a00c5ca9428",
         "ebcaa162-2711-4799-b3f4-0e68392454a8",
-        "96cfade5-cb36-49ac-ad62-933fcd7f3e84",
         "f25ce7d8-4d17-4f26-883e-337c2da44336",
         "287d7b83-e2a0-4e58-8c65-97da5b8ca223",
-        "d4e90696-af95-4fc3-bb22-139408a736fd"
+        "d4e90696-af95-4fc3-bb22-139408a736fd",
+        "59cfe267-8c90-4bf2-afec-3c51bf92b72e",
+        "607a12ef-6b96-447e-a292-c144a3492b1a"
       ],
       "settings": {
         "collections_per_row": 5,
