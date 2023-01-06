@@ -380,16 +380,17 @@
           "settings": {
             "link": "",
             "image": "shopify:\/\/shop_images\/Prestige-2-Cover-Image-for-New-Apparel-Home.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/designs-square.jpg",
             "pretext": "",
             "title": "So Much To Love",
-            "subtitle": "<p>Mugs, totes, shirts, hoodies, and more. There's something perfect for you.<\/p>",
+            "subtitle": "<p>Mugs, totes, shirts, hoodies, jewelry, posters and more. There's something perfect for you.<\/p>",
             "pretext_color": "#000000",
             "heading_color": "#000000",
             "subheading_color": "#000000",
             "text_alignment": "center",
             "text_horizontal_position": "center",
             "background_color": "#FFFFFF",
-            "background_opacity": 100,
+            "background_opacity": 90,
             "border_color": "#FFFFFF",
             "border_width": 0,
             "text_width": 40,
@@ -407,6 +408,7 @@
         },
         "template--14604693831777__b64324bb-224b-48a9-8d7f-fd311988840f-167303851720704eec-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "link": "",
             "pretext": "<p>Preheading<\/p>",
