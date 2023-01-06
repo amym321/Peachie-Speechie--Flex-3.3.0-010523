@@ -1,1 +1,34 @@
-{"sections":{"banner":{"type":"banner","settings":{}},"main":{"type":"404__main","settings":{}}},"order":["banner","main"]}
+{
+  "sections": {
+    "banner": {
+      "type": "banner",
+      "disabled": true,
+      "settings": {
+        "image_darken": true,
+        "subtitle": "Subheading",
+        "width": "wide",
+        "banner_height": "medium",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "404__main",
+      "settings": {
+        "not_found_text": "",
+        "display_search_field": true,
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 80,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "main"
+  ]
+}
