@@ -871,6 +871,59 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "bc9fe864-4055-4971-a915-383a6007a2a2": {
+      "type": "index__collection-list",
+      "blocks": {
+        "template--14604693340257__bc9fe864-4055-4971-a915-383a6007a2a2-167296725468fb0150-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--14604693340257__bc9fe864-4055-4971-a915-383a6007a2a2-167296725468fb0150-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--14604693340257__bc9fe864-4055-4971-a915-383a6007a2a2-167296725468fb0150-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        }
+      },
+      "block_order": [
+        "template--14604693340257__bc9fe864-4055-4971-a915-383a6007a2a2-167296725468fb0150-0",
+        "template--14604693340257__bc9fe864-4055-4971-a915-383a6007a2a2-167296725468fb0150-1",
+        "template--14604693340257__bc9fe864-4055-4971-a915-383a6007a2a2-167296725468fb0150-2"
+      ],
+      "settings": {
+        "collections_per_row": 5,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": true,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 0,
+        "overlay_text": "#FFFFFF",
+        "collection_title_below_image": false,
+        "hide_title_cta": true,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -884,6 +937,7 @@
     "e9593fc5-1961-4e51-8392-0f71f3fb1d14",
     "d6d2cf05-dd00-4c9b-bd80-00f840e5de34",
     "fd891a92-3956-4d87-992e-884e00151d99",
-    "fea7facc-ce2e-40ae-8a24-4bd74b8206a1"
+    "fea7facc-ce2e-40ae-8a24-4bd74b8206a1",
+    "bc9fe864-4055-4971-a915-383a6007a2a2"
   ]
 }
