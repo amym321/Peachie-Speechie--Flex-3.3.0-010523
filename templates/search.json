@@ -38,6 +38,7 @@
     },
     "9919754b-e2b1-4748-9f47-d1e04c6684fc": {
       "type": "index__collection-list",
+      "disabled": true,
       "blocks": {
         "template--14567318945889__9919754b-e2b1-4748-9f47-d1e04c6684fc-1665721339d7a9a63d-0": {
           "type": "collection",
@@ -103,11 +104,76 @@
         "css_class": "",
         "custom_css": ".title {\ntext-shadow: 1px 1px  3px #000000;\n}"
       }
+    },
+    "1235e2a3-dd37-477e-9cfe-393d0f43a169": {
+      "type": "index__featured-promotions",
+      "blocks": {
+        "template--14604693733473__1235e2a3-dd37-477e-9cfe-393d0f43a169-1673037124351bfe39-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/materials.png",
+            "link": "shopify:\/\/collections\/downloadable-materials",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 0,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "",
+            "title": "shop materials",
+            "text": ""
+          }
+        },
+        "template--14604693733473__1235e2a3-dd37-477e-9cfe-393d0f43a169-1673037124351bfe39-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/special-offers.png",
+            "link": "shopify:\/\/collections\/on-sale",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "",
+            "title": "shop special offers",
+            "text": ""
+          }
+        },
+        "template--14604693733473__1235e2a3-dd37-477e-9cfe-393d0f43a169-1673037124351bfe39-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "tag",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14604693733473__1235e2a3-dd37-477e-9cfe-393d0f43a169-1673037124351bfe39-0",
+        "template--14604693733473__1235e2a3-dd37-477e-9cfe-393d0f43a169-1673037124351bfe39-1",
+        "template--14604693733473__1235e2a3-dd37-477e-9cfe-393d0f43a169-1673037124351bfe39-2"
+      ],
+      "settings": {
+        "border_radius": 0,
+        "crop_images": true,
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 0,
+        "overlay_text": "#000000",
+        "show_border": false,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "h3 {\n  color: #000000;\n  background-color: #F6F5F0; \n  text-color: black;\n  padding-top: 7px;\n  padding-right: 15px;\n  padding-bottom: 10px;\n  padding-left: 15px;\n  border-radius: 0px;\n  font-size: 15px;\n  font-weight: 400;\n  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);\n}\nh3 {\n  position: absolute;\n  bottom: 0%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: fit-content;\n}\nh3:hover {\n   background-color: #DFBE2A;\n   transition: all 50ms ease;\n   color: black;\n   text-decoration: underline;\n}"
+      }
     }
   },
   "order": [
     "banner",
     "main",
-    "9919754b-e2b1-4748-9f47-d1e04c6684fc"
+    "9919754b-e2b1-4748-9f47-d1e04c6684fc",
+    "1235e2a3-dd37-477e-9cfe-393d0f43a169"
   ]
 }
