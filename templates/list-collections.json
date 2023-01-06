@@ -409,6 +409,14 @@
             "button_label": "View products"
           }
         },
+        "0517dabd-eeca-4642-b6ec-b0c4d02af3f4": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "all-i-do-is-speech",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "5d4dda81-adcf-49ad-8c72-b6c075536596": {
           "type": "collection",
           "settings": {
@@ -477,6 +485,7 @@
         "f2e721c0-74df-47db-9833-b308269c3f1b",
         "12eeac49-438a-46f8-b8c6-f2fb5e30d76e",
         "74a8e6f3-d4b0-4d9a-8a5e-44eca99e32b4",
+        "0517dabd-eeca-4642-b6ec-b0c4d02af3f4",
         "5d4dda81-adcf-49ad-8c72-b6c075536596",
         "86e3e5c5-394c-453b-b574-a27290781995",
         "f81c113b-d9c9-4590-803a-4e505faed26d",
@@ -635,6 +644,22 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "3f2c73fc-76a2-4891-b6b5-2c9ac18fdada": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "coffee-into-speech",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "f033d5d2-53dd-4906-a91d-d9d23616690e": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "coffee-speech-repeat",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -650,7 +675,9 @@
         "287d7b83-e2a0-4e58-8c65-97da5b8ca223",
         "d4e90696-af95-4fc3-bb22-139408a736fd",
         "59cfe267-8c90-4bf2-afec-3c51bf92b72e",
-        "607a12ef-6b96-447e-a292-c144a3492b1a"
+        "607a12ef-6b96-447e-a292-c144a3492b1a",
+        "3f2c73fc-76a2-4891-b6b5-2c9ac18fdada",
+        "f033d5d2-53dd-4906-a91d-d9d23616690e"
       ],
       "settings": {
         "collections_per_row": 5,
@@ -734,7 +761,7 @@
         "3a1d86b6-e415-42ae-9541-d9bef674cb57": {
           "type": "collection",
           "settings": {
-            "feature_collection": "happy-halloween-skeleton",
+            "feature_collection": "the-slp",
             "title": "",
             "button_label": "View products"
           }
@@ -742,7 +769,7 @@
         "3c8d2416-432f-4c44-b01a-ac46b037d1cc": {
           "type": "collection",
           "settings": {
-            "feature_collection": "skeleton-slp",
+            "feature_collection": "not-just-beer",
             "title": "",
             "button_label": "View products"
           }
@@ -750,7 +777,7 @@
         "b1191dd9-56f9-4969-bc69-e10a7d6c7358": {
           "type": "collection",
           "settings": {
-            "feature_collection": "spider-web-slp",
+            "feature_collection": "catching-zs",
             "title": "",
             "button_label": "View products"
           }
@@ -758,7 +785,7 @@
         "03039017-0cfa-4e6d-9072-41649cb92846": {
           "type": "collection",
           "settings": {
-            "feature_collection": "ghosty-says-bu",
+            "feature_collection": "bubbly-ccc-slp",
             "title": "",
             "button_label": "View products"
           }
@@ -766,7 +793,7 @@
         "a699963b-be54-4774-88d8-07a2907965b9": {
           "type": "collection",
           "settings": {
-            "feature_collection": "salem-speech-for-witches-wizards",
+            "feature_collection": "ccc-slp-banner",
             "title": "",
             "button_label": "View products"
           }
@@ -774,7 +801,7 @@
         "faf6863f-1310-429e-9103-cff2effa91b6": {
           "type": "collection",
           "settings": {
-            "feature_collection": "thankful",
+            "feature_collection": "core-board",
             "title": "",
             "button_label": "View products"
           }
