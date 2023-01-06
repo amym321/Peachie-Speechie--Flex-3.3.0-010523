@@ -115,191 +115,6 @@
         "custom_css": ""
       }
     },
-    "79edd476-41d3-4204-a768-7c84c7c522c2": {
-      "type": "index__heading",
-      "settings": {
-        "preheading": "",
-        "title": "Winter & Holiday",
-        "subheading": "<p>Christmas, Hanukkah and more<\/p>",
-        "preheading_color": "rgba(0,0,0,0)",
-        "heading_color": "rgba(0,0,0,0)",
-        "subheading_color": "rgba(0,0,0,0)",
-        "background": "rgba(0,0,0,0)",
-        "gradient": "rgba(0,0,0,0)",
-        "gradient_rotation": 0,
-        "heading_alignment": "center",
-        "vertical_spacing": "medium",
-        "width": "standard",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_left": 0,
-        "padding_right": 0,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "3d4fd1b9-55a0-49d0-837e-2bba71b560e5": {
-      "type": "index__collection-list",
-      "blocks": {
-        "template--14580755857505__3d4fd1b9-55a0-49d0-837e-2bba71b560e5-1668594634bf77c618-0": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "speech-elf",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "template--14580755857505__3d4fd1b9-55a0-49d0-837e-2bba71b560e5-1668594634bf77c618-1": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "ugly-christmas-sweater",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "template--14580755857505__3d4fd1b9-55a0-49d0-837e-2bba71b560e5-1668594634bf77c618-2": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "santa-s-favorite-slp",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "b97e2116-235f-4a30-adf1-14787d858b2d": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "merry-and-bright",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "e0e706e8-bb5a-473a-84ca-25487e52d653": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "christmas-lights-speech",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "0ebc5fb9-4993-4b34-8c75-03cd0a533906": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "merry-merry-merry",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "6e562b07-e28f-4aa9-87be-e61ad9f19a3e": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "merry-christmas-tree-ipa",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "2d7edc69-b8a2-44f5-b88e-2f89d1e81f3a": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "happy-hanukkah-ipa-menorah",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "66ea37b9-4f64-418c-85b4-9edbbed64d51": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "holly-jolly-slp",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "88363c6d-0056-4637-8bf0-9595555e3cc8": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "north-pole-speech-therapy",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "5368aab0-cd67-4b13-8924-1fae89325ccb": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "talking-in-a-winter-wonderland",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "3d912950-20cc-4ee5-8ac8-e020bd9b607f": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "merry-christmas-tree-slp",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "efec94ca-411a-46ce-b3b5-291dd1dc3441": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "have-yourself-a-speechie-little-christmas",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "0da272be-b77b-4da5-bf5a-18396b41865a": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "alveolar-ridge-ski-resort-lodge",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "f79a617b-64b8-498d-9a03-470447d4eca5": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "slp-needs-coffee",
-            "title": "",
-            "button_label": "View products"
-          }
-        }
-      },
-      "block_order": [
-        "template--14580755857505__3d4fd1b9-55a0-49d0-837e-2bba71b560e5-1668594634bf77c618-0",
-        "template--14580755857505__3d4fd1b9-55a0-49d0-837e-2bba71b560e5-1668594634bf77c618-1",
-        "template--14580755857505__3d4fd1b9-55a0-49d0-837e-2bba71b560e5-1668594634bf77c618-2",
-        "b97e2116-235f-4a30-adf1-14787d858b2d",
-        "e0e706e8-bb5a-473a-84ca-25487e52d653",
-        "0ebc5fb9-4993-4b34-8c75-03cd0a533906",
-        "6e562b07-e28f-4aa9-87be-e61ad9f19a3e",
-        "2d7edc69-b8a2-44f5-b88e-2f89d1e81f3a",
-        "66ea37b9-4f64-418c-85b4-9edbbed64d51",
-        "88363c6d-0056-4637-8bf0-9595555e3cc8",
-        "5368aab0-cd67-4b13-8924-1fae89325ccb",
-        "3d912950-20cc-4ee5-8ac8-e020bd9b607f",
-        "efec94ca-411a-46ce-b3b5-291dd1dc3441",
-        "0da272be-b77b-4da5-bf5a-18396b41865a",
-        "f79a617b-64b8-498d-9a03-470447d4eca5"
-      ],
-      "settings": {
-        "collections_per_row": 5,
-        "align_height": false,
-        "collection_height": 400,
-        "enable_zoom": true,
-        "button_style": "button--secondary",
-        "overlay_background": "#939393",
-        "overlay_background_opacity": 0,
-        "overlay_text": "#ffffff",
-        "collection_title_below_image": false,
-        "hide_title_cta": true,
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 10,
-        "padding_bottom": 10,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "fd6cef6a-2b51-4bb6-afd6-d52c8b7c0071": {
       "type": "index__heading",
       "settings": {
@@ -1023,13 +838,196 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "79edd476-41d3-4204-a768-7c84c7c522c2": {
+      "type": "index__heading",
+      "settings": {
+        "preheading": "",
+        "title": "Winter & Holiday",
+        "subheading": "<p>Christmas, Hanukkah and more<\/p>",
+        "preheading_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "subheading_color": "rgba(0,0,0,0)",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "heading_alignment": "center",
+        "vertical_spacing": "medium",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "3d4fd1b9-55a0-49d0-837e-2bba71b560e5": {
+      "type": "index__collection-list",
+      "blocks": {
+        "template--14580755857505__3d4fd1b9-55a0-49d0-837e-2bba71b560e5-1668594634bf77c618-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-elf",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--14580755857505__3d4fd1b9-55a0-49d0-837e-2bba71b560e5-1668594634bf77c618-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "ugly-christmas-sweater",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--14580755857505__3d4fd1b9-55a0-49d0-837e-2bba71b560e5-1668594634bf77c618-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "santa-s-favorite-slp",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "b97e2116-235f-4a30-adf1-14787d858b2d": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "merry-and-bright",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "e0e706e8-bb5a-473a-84ca-25487e52d653": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "christmas-lights-speech",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "0ebc5fb9-4993-4b34-8c75-03cd0a533906": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "merry-merry-merry",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "6e562b07-e28f-4aa9-87be-e61ad9f19a3e": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "merry-christmas-tree-ipa",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "2d7edc69-b8a2-44f5-b88e-2f89d1e81f3a": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "happy-hanukkah-ipa-menorah",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "66ea37b9-4f64-418c-85b4-9edbbed64d51": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "holly-jolly-slp",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "88363c6d-0056-4637-8bf0-9595555e3cc8": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "north-pole-speech-therapy",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "5368aab0-cd67-4b13-8924-1fae89325ccb": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "talking-in-a-winter-wonderland",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "3d912950-20cc-4ee5-8ac8-e020bd9b607f": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "merry-christmas-tree-slp",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "efec94ca-411a-46ce-b3b5-291dd1dc3441": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "have-yourself-a-speechie-little-christmas",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "0da272be-b77b-4da5-bf5a-18396b41865a": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "alveolar-ridge-ski-resort-lodge",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "f79a617b-64b8-498d-9a03-470447d4eca5": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "slp-needs-coffee",
+            "title": "",
+            "button_label": "View products"
+          }
+        }
+      },
+      "block_order": [
+        "template--14580755857505__3d4fd1b9-55a0-49d0-837e-2bba71b560e5-1668594634bf77c618-0",
+        "template--14580755857505__3d4fd1b9-55a0-49d0-837e-2bba71b560e5-1668594634bf77c618-1",
+        "template--14580755857505__3d4fd1b9-55a0-49d0-837e-2bba71b560e5-1668594634bf77c618-2",
+        "b97e2116-235f-4a30-adf1-14787d858b2d",
+        "e0e706e8-bb5a-473a-84ca-25487e52d653",
+        "0ebc5fb9-4993-4b34-8c75-03cd0a533906",
+        "6e562b07-e28f-4aa9-87be-e61ad9f19a3e",
+        "2d7edc69-b8a2-44f5-b88e-2f89d1e81f3a",
+        "66ea37b9-4f64-418c-85b4-9edbbed64d51",
+        "88363c6d-0056-4637-8bf0-9595555e3cc8",
+        "5368aab0-cd67-4b13-8924-1fae89325ccb",
+        "3d912950-20cc-4ee5-8ac8-e020bd9b607f",
+        "efec94ca-411a-46ce-b3b5-291dd1dc3441",
+        "0da272be-b77b-4da5-bf5a-18396b41865a",
+        "f79a617b-64b8-498d-9a03-470447d4eca5"
+      ],
+      "settings": {
+        "collections_per_row": 5,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": true,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 0,
+        "overlay_text": "#ffffff",
+        "collection_title_below_image": false,
+        "hide_title_cta": true,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
     "main",
     "8bdfba3b-cead-4518-bad4-d97d238b55fe",
-    "79edd476-41d3-4204-a768-7c84c7c522c2",
-    "3d4fd1b9-55a0-49d0-837e-2bba71b560e5",
     "fd6cef6a-2b51-4bb6-afd6-d52c8b7c0071",
     "c53dead8-43ed-447a-b5aa-58638963687e",
     "fea37dd9-64e7-424a-aa02-4a30aac1e25a",
@@ -1037,6 +1035,8 @@
     "d6d2cf05-dd00-4c9b-bd80-00f840e5de34",
     "fd891a92-3956-4d87-992e-884e00151d99",
     "fea7facc-ce2e-40ae-8a24-4bd74b8206a1",
-    "bc9fe864-4055-4971-a915-383a6007a2a2"
+    "bc9fe864-4055-4971-a915-383a6007a2a2",
+    "79edd476-41d3-4204-a768-7c84c7c522c2",
+    "3d4fd1b9-55a0-49d0-837e-2bba71b560e5"
   ]
 }
