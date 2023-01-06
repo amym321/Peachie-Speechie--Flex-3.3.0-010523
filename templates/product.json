@@ -129,17 +129,9 @@
         "custom_css": ""
       }
     },
-    "recently-viewed": {
-      "type": "recently-viewed-section",
-      "settings": {
-        "title": "Recently Viewed",
-        "maxProducts": 10,
-        "css_class": "",
-        "custom_css": ".price {\ntext-align:left;\n}\n.rvp-item__title {\ntext-align:left;\n}\n   {\nwidth: 1200px;\n}"
-      }
-    },
     "b527f487-a765-43d5-aacd-b5fbd213428a": {
       "type": "index__featured-promotions",
+      "disabled": true,
       "blocks": {
         "template--14593054146657__b527f487-a765-43d5-aacd-b5fbd213428a-167216800094602571-0": {
           "type": "image",
@@ -399,6 +391,15 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed-section",
+      "settings": {
+        "title": "Recently Viewed",
+        "maxProducts": 10,
+        "css_class": "",
+        "custom_css": ".price {\ntext-align:left;\n}\n.rvp-item__title {\ntext-align:left;\n}\n   {\nwidth: 1200px;\n}"
+      }
     }
   },
   "order": [
@@ -407,12 +408,12 @@
     "main",
     "805ea1c5-9a7b-4ccd-8b91-09dc6f4b0bcf",
     "recommendations",
-    "recently-viewed",
     "b527f487-a765-43d5-aacd-b5fbd213428a",
     "62c72184-85b0-4229-bd09-bd8701c69880",
     "b5133806-9edc-44fd-9242-1aa052aac789",
     "81122376-46e6-4e3d-ab2a-3822115b1ea7",
     "d53cbd79-fe7b-4d3e-9e79-a1863ea20f68",
-    "1668037824842d02e4"
+    "1668037824842d02e4",
+    "recently-viewed"
   ]
 }
