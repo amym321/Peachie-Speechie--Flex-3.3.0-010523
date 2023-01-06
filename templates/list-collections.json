@@ -300,173 +300,6 @@
         "custom_css": ".title {\ntext-shadow: 1px 1px  3px #000000;\n}\nbutton {\ndisplay: none;\n}\n.title {\ndisplay: none;\n}"
       }
     },
-    "fea37dd9-64e7-424a-aa02-4a30aac1e25a": {
-      "type": "index__heading",
-      "settings": {
-        "preheading": "",
-        "title": "Autumn & Halloween",
-        "subheading": "<p>Thanksgiving, Football, Ghosts<\/p>",
-        "preheading_color": "rgba(0,0,0,0)",
-        "heading_color": "rgba(0,0,0,0)",
-        "subheading_color": "rgba(0,0,0,0)",
-        "background": "rgba(0,0,0,0)",
-        "gradient": "rgba(0,0,0,0)",
-        "gradient_rotation": 0,
-        "heading_alignment": "center",
-        "vertical_spacing": "medium",
-        "width": "standard",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_left": 0,
-        "padding_right": 0,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
-    "e9593fc5-1961-4e51-8392-0f71f3fb1d14": {
-      "type": "index__collection-list",
-      "blocks": {
-        "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-0": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "speech-therapy-team-football",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-1": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "speech-goals",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-2": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "happy-halloween-ghost-ipa",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "487d1ace-b809-4e91-9e7b-4550161cc5a8": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "you-cant-scare-me",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "3a1d86b6-e415-42ae-9541-d9bef674cb57": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "happy-halloween-skeleton",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "3c8d2416-432f-4c44-b01a-ac46b037d1cc": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "skeleton-slp",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "b1191dd9-56f9-4969-bc69-e10a7d6c7358": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "spider-web-slp",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "03039017-0cfa-4e6d-9072-41649cb92846": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "ghosty-says-bu",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "a699963b-be54-4774-88d8-07a2907965b9": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "salem-speech-for-witches-wizards",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "faf6863f-1310-429e-9103-cff2effa91b6": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "thankful",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "8e043a03-7360-4166-a00a-a5bb0a0f1085": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "happy-camper",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "c4f0683c-84d4-4f7a-9485-78dc13b9a7e6": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "speech-smore",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "9ec40f73-4ac7-4be6-bd63-a6ff871b439e": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "pirate",
-            "title": "",
-            "button_label": "View products"
-          }
-        }
-      },
-      "block_order": [
-        "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-0",
-        "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-1",
-        "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-2",
-        "487d1ace-b809-4e91-9e7b-4550161cc5a8",
-        "3a1d86b6-e415-42ae-9541-d9bef674cb57",
-        "3c8d2416-432f-4c44-b01a-ac46b037d1cc",
-        "b1191dd9-56f9-4969-bc69-e10a7d6c7358",
-        "03039017-0cfa-4e6d-9072-41649cb92846",
-        "a699963b-be54-4774-88d8-07a2907965b9",
-        "faf6863f-1310-429e-9103-cff2effa91b6",
-        "8e043a03-7360-4166-a00a-a5bb0a0f1085",
-        "c4f0683c-84d4-4f7a-9485-78dc13b9a7e6",
-        "9ec40f73-4ac7-4be6-bd63-a6ff871b439e"
-      ],
-      "settings": {
-        "collections_per_row": 5,
-        "align_height": false,
-        "collection_height": 400,
-        "enable_zoom": true,
-        "button_style": "button--secondary",
-        "overlay_background": "#939393",
-        "overlay_background_opacity": 0,
-        "overlay_text": "#ffffff",
-        "collection_title_below_image": false,
-        "hide_title_cta": true,
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 10,
-        "padding_bottom": 10,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "d6d2cf05-dd00-4c9b-bd80-00f840e5de34": {
       "type": "index__heading",
       "settings": {
@@ -839,6 +672,173 @@
         "custom_css": ""
       }
     },
+    "fea37dd9-64e7-424a-aa02-4a30aac1e25a": {
+      "type": "index__heading",
+      "settings": {
+        "preheading": "",
+        "title": "Autumn & Halloween",
+        "subheading": "<p>Thanksgiving, Football, Ghosts<\/p>",
+        "preheading_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "subheading_color": "rgba(0,0,0,0)",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "heading_alignment": "center",
+        "vertical_spacing": "medium",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e9593fc5-1961-4e51-8392-0f71f3fb1d14": {
+      "type": "index__collection-list",
+      "blocks": {
+        "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-therapy-team-football",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-goals",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "happy-halloween-ghost-ipa",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "487d1ace-b809-4e91-9e7b-4550161cc5a8": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "you-cant-scare-me",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "3a1d86b6-e415-42ae-9541-d9bef674cb57": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "happy-halloween-skeleton",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "3c8d2416-432f-4c44-b01a-ac46b037d1cc": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "skeleton-slp",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "b1191dd9-56f9-4969-bc69-e10a7d6c7358": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "spider-web-slp",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "03039017-0cfa-4e6d-9072-41649cb92846": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "ghosty-says-bu",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "a699963b-be54-4774-88d8-07a2907965b9": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "salem-speech-for-witches-wizards",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "faf6863f-1310-429e-9103-cff2effa91b6": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "thankful",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "8e043a03-7360-4166-a00a-a5bb0a0f1085": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "happy-camper",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "c4f0683c-84d4-4f7a-9485-78dc13b9a7e6": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-smore",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "9ec40f73-4ac7-4be6-bd63-a6ff871b439e": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "pirate",
+            "title": "",
+            "button_label": "View products"
+          }
+        }
+      },
+      "block_order": [
+        "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-0",
+        "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-1",
+        "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-2",
+        "487d1ace-b809-4e91-9e7b-4550161cc5a8",
+        "3a1d86b6-e415-42ae-9541-d9bef674cb57",
+        "3c8d2416-432f-4c44-b01a-ac46b037d1cc",
+        "b1191dd9-56f9-4969-bc69-e10a7d6c7358",
+        "03039017-0cfa-4e6d-9072-41649cb92846",
+        "a699963b-be54-4774-88d8-07a2907965b9",
+        "faf6863f-1310-429e-9103-cff2effa91b6",
+        "8e043a03-7360-4166-a00a-a5bb0a0f1085",
+        "c4f0683c-84d4-4f7a-9485-78dc13b9a7e6",
+        "9ec40f73-4ac7-4be6-bd63-a6ff871b439e"
+      ],
+      "settings": {
+        "collections_per_row": 5,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": true,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 0,
+        "overlay_text": "#ffffff",
+        "collection_title_below_image": false,
+        "hide_title_cta": true,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "79edd476-41d3-4204-a768-7c84c7c522c2": {
       "type": "index__heading",
       "settings": {
@@ -1061,12 +1061,12 @@
     "8bdfba3b-cead-4518-bad4-d97d238b55fe",
     "fd6cef6a-2b51-4bb6-afd6-d52c8b7c0071",
     "c53dead8-43ed-447a-b5aa-58638963687e",
-    "fea37dd9-64e7-424a-aa02-4a30aac1e25a",
-    "e9593fc5-1961-4e51-8392-0f71f3fb1d14",
     "d6d2cf05-dd00-4c9b-bd80-00f840e5de34",
     "fd891a92-3956-4d87-992e-884e00151d99",
     "fea7facc-ce2e-40ae-8a24-4bd74b8206a1",
     "bc9fe864-4055-4971-a915-383a6007a2a2",
+    "fea37dd9-64e7-424a-aa02-4a30aac1e25a",
+    "e9593fc5-1961-4e51-8392-0f71f3fb1d14",
     "79edd476-41d3-4204-a768-7c84c7c522c2",
     "3d4fd1b9-55a0-49d0-837e-2bba71b560e5",
     "ddb908e4-b4ac-4d50-be5e-a5c4653a08e4"
