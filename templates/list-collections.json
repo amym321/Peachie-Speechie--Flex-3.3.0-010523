@@ -103,7 +103,7 @@
         "button_alignment": "center",
         "button_style": "button--primary",
         "background": "#ffffff",
-        "gradient": "#FFF",
+        "gradient": "#ffffff",
         "gradient_rotation": 180,
         "width": "wide",
         "padding_top": 20,
@@ -660,7 +660,7 @@
         "button_style": "button--secondary",
         "overlay_background": "#939393",
         "overlay_background_opacity": 0,
-        "overlay_text": "#FFFFFF",
+        "overlay_text": "#ffffff",
         "collection_title_below_image": false,
         "hide_title_cta": true,
         "width": "standard",
@@ -672,12 +672,12 @@
         "custom_css": ""
       }
     },
-    "fea37dd9-64e7-424a-aa02-4a30aac1e25a": {
+    "0ef26fad-dc1e-4160-b8ad-7a3eaea06226": {
       "type": "index__heading",
       "settings": {
         "preheading": "",
-        "title": "Autumn & Halloween",
-        "subheading": "<p>Thanksgiving, Football, Ghosts<\/p>",
+        "title": "SLPs Will Know",
+        "subheading": "<p>Start some fun conversations<\/p>",
         "preheading_color": "rgba(0,0,0,0)",
         "heading_color": "rgba(0,0,0,0)",
         "subheading_color": "rgba(0,0,0,0)",
@@ -702,7 +702,7 @@
         "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-0": {
           "type": "collection",
           "settings": {
-            "feature_collection": "speech-therapy-team-football",
+            "feature_collection": "slp-hands",
             "title": "",
             "button_label": "View products"
           }
@@ -710,7 +710,7 @@
         "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-1": {
           "type": "collection",
           "settings": {
-            "feature_collection": "speech-goals",
+            "feature_collection": "best-day-ever",
             "title": "",
             "button_label": "View products"
           }
@@ -718,7 +718,7 @@
         "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-2": {
           "type": "collection",
           "settings": {
-            "feature_collection": "happy-halloween-ghost-ipa",
+            "feature_collection": "ipa-vowel-chart",
             "title": "",
             "button_label": "View products"
           }
@@ -726,7 +726,7 @@
         "487d1ace-b809-4e91-9e7b-4550161cc5a8": {
           "type": "collection",
           "settings": {
-            "feature_collection": "you-cant-scare-me",
+            "feature_collection": "but-first-coffee",
             "title": "",
             "button_label": "View products"
           }
@@ -818,6 +818,173 @@
         "8e043a03-7360-4166-a00a-a5bb0a0f1085",
         "c4f0683c-84d4-4f7a-9485-78dc13b9a7e6",
         "9ec40f73-4ac7-4be6-bd63-a6ff871b439e"
+      ],
+      "settings": {
+        "collections_per_row": 5,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": true,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 0,
+        "overlay_text": "#ffffff",
+        "collection_title_below_image": false,
+        "hide_title_cta": true,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "fea37dd9-64e7-424a-aa02-4a30aac1e25a": {
+      "type": "index__heading",
+      "settings": {
+        "preheading": "",
+        "title": "Autumn & Halloween",
+        "subheading": "<p>Thanksgiving, Football, Ghosts<\/p>",
+        "preheading_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "subheading_color": "rgba(0,0,0,0)",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "heading_alignment": "center",
+        "vertical_spacing": "medium",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f385812d-2f95-4622-a911-c995899b02ed": {
+      "type": "index__collection-list",
+      "blocks": {
+        "a2c76fb7-4841-4ff1-94ed-a94bbe86fadd": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-therapy-team-football",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "8fcba130-236b-4d05-bc48-220e253d2189": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-goals",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "dadf8011-7bae-4946-aa04-3b5a2d040dcd": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "happy-halloween-ghost-ipa",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "0fdc3274-b250-451e-b78a-2678de09206f": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "you-cant-scare-me",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "1eb5e8b1-778f-4c50-ac0f-6cdce4970c16": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "happy-halloween-skeleton",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "8c9fc41e-d75f-48c4-9cb1-6440a31db9d1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "skeleton-slp",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "17398894-7e89-438c-9303-9bc87394e732": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "spider-web-slp",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "cafcbdda-9b10-4a1d-9e7e-8531a8243366": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "ghosty-says-bu",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "9c4785a1-a202-4241-b6f8-f7b9d14b8282": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "salem-speech-for-witches-wizards",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "9d06a94f-452d-4606-9e18-2afe2de98fde": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "thankful",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "df670320-c910-4836-9e54-466cad2ff6c9": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "happy-camper",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "6aca5a13-6733-424a-9b4d-4a281f6b35fb": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-smore",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "a7c070f7-64e6-48ff-b55b-0b722198105b": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "pirate",
+            "title": "",
+            "button_label": "View products"
+          }
+        }
+      },
+      "block_order": [
+        "a2c76fb7-4841-4ff1-94ed-a94bbe86fadd",
+        "8fcba130-236b-4d05-bc48-220e253d2189",
+        "dadf8011-7bae-4946-aa04-3b5a2d040dcd",
+        "0fdc3274-b250-451e-b78a-2678de09206f",
+        "1eb5e8b1-778f-4c50-ac0f-6cdce4970c16",
+        "8c9fc41e-d75f-48c4-9cb1-6440a31db9d1",
+        "17398894-7e89-438c-9303-9bc87394e732",
+        "cafcbdda-9b10-4a1d-9e7e-8531a8243366",
+        "9c4785a1-a202-4241-b6f8-f7b9d14b8282",
+        "9d06a94f-452d-4606-9e18-2afe2de98fde",
+        "df670320-c910-4836-9e54-466cad2ff6c9",
+        "6aca5a13-6733-424a-9b4d-4a281f6b35fb",
+        "a7c070f7-64e6-48ff-b55b-0b722198105b"
       ],
       "settings": {
         "collections_per_row": 5,
@@ -1043,7 +1210,7 @@
         "button_alignment": "center",
         "button_style": "button--primary",
         "background": "#ffffff",
-        "gradient": "#FFF",
+        "gradient": "#ffffff",
         "gradient_rotation": 180,
         "width": "wide",
         "padding_top": 20,
@@ -1065,8 +1232,10 @@
     "fd891a92-3956-4d87-992e-884e00151d99",
     "fea7facc-ce2e-40ae-8a24-4bd74b8206a1",
     "bc9fe864-4055-4971-a915-383a6007a2a2",
-    "fea37dd9-64e7-424a-aa02-4a30aac1e25a",
+    "0ef26fad-dc1e-4160-b8ad-7a3eaea06226",
     "e9593fc5-1961-4e51-8392-0f71f3fb1d14",
+    "fea37dd9-64e7-424a-aa02-4a30aac1e25a",
+    "f385812d-2f95-4622-a911-c995899b02ed",
     "79edd476-41d3-4204-a768-7c84c7c522c2",
     "3d4fd1b9-55a0-49d0-837e-2bba71b560e5",
     "ddb908e4-b4ac-4d50-be5e-a5c4653a08e4"
