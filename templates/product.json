@@ -372,6 +372,87 @@
         "custom_css": ""
       }
     },
+    "b64324bb-224b-48a9-8d7f-fd311988840f": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "template--14604693831777__b64324bb-224b-48a9-8d7f-fd311988840f-167303851720704eec-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/Prestige-2-Cover-Image-for-New-Apparel-Home.jpg",
+            "pretext": "",
+            "title": "So Much To Love",
+            "subtitle": "<p>Mugs, totes, shirts, hoodies, and more. There's something perfect for you.<\/p>",
+            "pretext_color": "#000000",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "text_alignment": "center",
+            "text_horizontal_position": "center",
+            "background_color": "#FFFFFF",
+            "background_opacity": 100,
+            "border_color": "#FFFFFF",
+            "border_width": 0,
+            "text_width": 40,
+            "button_1": "Shop designs",
+            "button_1_link": "https:\/\/peachiespeechie.com\/collections",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "template--14604693831777__b64324bb-224b-48a9-8d7f-fd311988840f-167303851720704eec-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "pretext": "<p>Preheading<\/p>",
+            "title": "Classic slideshow",
+            "subtitle": "<p>Additional info in the subheading<\/p>",
+            "pretext_color": "#000000",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "text_alignment": "center",
+            "text_horizontal_position": "center",
+            "background_color": "#FFFFFF",
+            "background_opacity": 77,
+            "border_color": "#FFFFFF",
+            "border_width": 0,
+            "text_width": 40,
+            "button_1": "Button 1",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "Button 2",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--14604693831777__b64324bb-224b-48a9-8d7f-fd311988840f-167303851720704eec-0",
+        "template--14604693831777__b64324bb-224b-48a9-8d7f-fd311988840f-167303851720704eec-1"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "show_nav_buttons": true,
+        "mobile_text_below_image": true,
+        "width": "standard",
+        "padding_top": 70,
+        "padding_bottom": 50,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "1668037824842d02e4": {
       "type": "apps",
       "blocks": {
@@ -413,6 +494,7 @@
     "b5133806-9edc-44fd-9242-1aa052aac789",
     "81122376-46e6-4e3d-ab2a-3822115b1ea7",
     "d53cbd79-fe7b-4d3e-9e79-a1863ea20f68",
+    "b64324bb-224b-48a9-8d7f-fd311988840f",
     "1668037824842d02e4",
     "recently-viewed"
   ]
