@@ -669,6 +669,22 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "0216db21-15d2-4db1-82ca-910b350334f7": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "5-slp",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "1ce36142-9d3a-4562-9391-961983e63487": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "highlight-speech",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -686,7 +702,9 @@
         "59cfe267-8c90-4bf2-afec-3c51bf92b72e",
         "607a12ef-6b96-447e-a292-c144a3492b1a",
         "3f2c73fc-76a2-4891-b6b5-2c9ac18fdada",
-        "f033d5d2-53dd-4906-a91d-d9d23616690e"
+        "f033d5d2-53dd-4906-a91d-d9d23616690e",
+        "0216db21-15d2-4db1-82ca-910b350334f7",
+        "1ce36142-9d3a-4562-9391-961983e63487"
       ],
       "settings": {
         "collections_per_row": 5,
