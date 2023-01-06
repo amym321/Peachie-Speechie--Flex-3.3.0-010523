@@ -685,6 +685,30 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "a4dd909f-0b61-4a92-abb5-fc9fa602d215": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "iep-party",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "e0007e83-2d67-4663-8649-43c4a365bc12": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "slp-job-title",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "321c9563-2d17-4be9-a406-7cd0337f43d2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "putting-the-antics-back-in-semantics",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -704,7 +728,10 @@
         "3f2c73fc-76a2-4891-b6b5-2c9ac18fdada",
         "f033d5d2-53dd-4906-a91d-d9d23616690e",
         "0216db21-15d2-4db1-82ca-910b350334f7",
-        "1ce36142-9d3a-4562-9391-961983e63487"
+        "1ce36142-9d3a-4562-9391-961983e63487",
+        "a4dd909f-0b61-4a92-abb5-fc9fa602d215",
+        "e0007e83-2d67-4663-8649-43c4a365bc12",
+        "321c9563-2d17-4be9-a406-7cd0337f43d2"
       ],
       "settings": {
         "collections_per_row": 5,
@@ -1287,6 +1314,14 @@
     "ce872faa-c9ea-48f1-bd1f-5d2a809b0405": {
       "type": "index__collection-list",
       "blocks": {
+        "cd6178fc-95a8-4be0-a587-31cfbb05fcea": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "better-hearing-and-speech-month",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "52b854bd-f514-42d3-b20c-0a06a094411b": {
           "type": "collection",
           "settings": {
@@ -1307,6 +1342,14 @@
           "type": "collection",
           "settings": {
             "feature_collection": "happy-halloween-ghost-ipa",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "ba46274c-09ca-45b8-8a39-53ecd04217c8": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-smore",
             "title": "",
             "button_label": "View products"
           }
@@ -1375,14 +1418,6 @@
             "button_label": "View products"
           }
         },
-        "ba46274c-09ca-45b8-8a39-53ecd04217c8": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "speech-smore",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
         "9eb00116-65d1-4f38-bb7b-652d54b346e6": {
           "type": "collection",
           "settings": {
@@ -1391,19 +1426,22 @@
             "button_label": "View products"
           }
         },
-        "cd6178fc-95a8-4be0-a587-31cfbb05fcea": {
+        "c33d5b7e-4471-48cd-a715-383a87099c45": {
           "type": "collection",
+          "disabled": true,
           "settings": {
-            "feature_collection": "better-hearing-and-speech-month",
+            "feature_collection": "",
             "title": "",
             "button_label": "View products"
           }
         }
       },
       "block_order": [
+        "cd6178fc-95a8-4be0-a587-31cfbb05fcea",
         "52b854bd-f514-42d3-b20c-0a06a094411b",
         "3532aebd-d9ec-426d-b535-4fcede1c3417",
         "14fd9b06-f0fa-450d-96a2-341716c6d243",
+        "ba46274c-09ca-45b8-8a39-53ecd04217c8",
         "fc44ae38-5e42-4043-b090-07f7c9dd6509",
         "bb9b4f7d-1a6b-4a81-a73d-250122e82b62",
         "6108c9cb-4c25-4fef-91e2-157e106b89d6",
@@ -1412,9 +1450,8 @@
         "a2211840-681e-4d76-9ba1-fa163a6d94d2",
         "2040759a-db0a-43bc-8c8d-268c36c98cc9",
         "31f5dbba-8f41-4b8c-ba43-b5dc61a65390",
-        "ba46274c-09ca-45b8-8a39-53ecd04217c8",
         "9eb00116-65d1-4f38-bb7b-652d54b346e6",
-        "cd6178fc-95a8-4be0-a587-31cfbb05fcea"
+        "c33d5b7e-4471-48cd-a715-383a87099c45"
       ],
       "settings": {
         "collections_per_row": 5,
