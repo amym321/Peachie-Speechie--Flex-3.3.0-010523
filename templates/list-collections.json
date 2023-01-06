@@ -417,6 +417,14 @@
             "button_label": "View products"
           }
         },
+        "e0619019-3669-402c-949b-759cbff73601": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-jam",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "5d4dda81-adcf-49ad-8c72-b6c075536596": {
           "type": "collection",
           "settings": {
@@ -486,6 +494,7 @@
         "12eeac49-438a-46f8-b8c6-f2fb5e30d76e",
         "74a8e6f3-d4b0-4d9a-8a5e-44eca99e32b4",
         "0517dabd-eeca-4642-b6ec-b0c4d02af3f4",
+        "e0619019-3669-402c-949b-759cbff73601",
         "5d4dda81-adcf-49ad-8c72-b6c075536596",
         "86e3e5c5-394c-453b-b574-a27290781995",
         "f81c113b-d9c9-4590-803a-4e505faed26d",
@@ -809,7 +818,7 @@
         "8e043a03-7360-4166-a00a-a5bb0a0f1085": {
           "type": "collection",
           "settings": {
-            "feature_collection": "happy-camper",
+            "feature_collection": "ipa-pattern",
             "title": "",
             "button_label": "View products"
           }
@@ -817,7 +826,7 @@
         "c4f0683c-84d4-4f7a-9485-78dc13b9a7e6": {
           "type": "collection",
           "settings": {
-            "feature_collection": "speech-smore",
+            "feature_collection": "crossely-quote",
             "title": "",
             "button_label": "View products"
           }
@@ -825,7 +834,23 @@
         "9ec40f73-4ac7-4be6-bd63-a6ff871b439e": {
           "type": "collection",
           "settings": {
-            "feature_collection": "pirate",
+            "feature_collection": "i-am-a-school-based-slp",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "4e8d32df-a711-47e0-9279-08c17a9f51d7": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "scope-squad",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "21dfefeb-4ac5-4d3d-80a5-dd18b644646b": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "i-guess-i-m-a-teletherapist-now",
             "title": "",
             "button_label": "View products"
           }
@@ -844,7 +869,9 @@
         "faf6863f-1310-429e-9103-cff2effa91b6",
         "8e043a03-7360-4166-a00a-a5bb0a0f1085",
         "c4f0683c-84d4-4f7a-9485-78dc13b9a7e6",
-        "9ec40f73-4ac7-4be6-bd63-a6ff871b439e"
+        "9ec40f73-4ac7-4be6-bd63-a6ff871b439e",
+        "4e8d32df-a711-47e0-9279-08c17a9f51d7",
+        "21dfefeb-4ac5-4d3d-80a5-dd18b644646b"
       ],
       "settings": {
         "collections_per_row": 5,
