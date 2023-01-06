@@ -261,6 +261,22 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "019b2ca7-723f-4397-a1ce-79911724ea62": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "better-hearing-and-speech-month",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "f18ac0e7-558d-44c2-a033-bc957e168184": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "beach-therapist",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -278,7 +294,9 @@
         "ded63b8a-3403-419f-8842-4e595df6c2c6",
         "dfb915d9-fcad-4057-b888-6a797ace5999",
         "70e6bdda-f7b3-40b4-afa4-d24cca519fb7",
-        "34c0bd43-59d2-4144-8f49-b1c16e8db830"
+        "34c0bd43-59d2-4144-8f49-b1c16e8db830",
+        "019b2ca7-723f-4397-a1ce-79911724ea62",
+        "f18ac0e7-558d-44c2-a033-bc957e168184"
       ],
       "settings": {
         "collections_per_row": 5,
@@ -655,14 +673,6 @@
             "button_label": "View products"
           }
         },
-        "607a12ef-6b96-447e-a292-c144a3492b1a": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "beach-therapist",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
         "3f2c73fc-76a2-4891-b6b5-2c9ac18fdada": {
           "type": "collection",
           "settings": {
@@ -733,7 +743,6 @@
         "287d7b83-e2a0-4e58-8c65-97da5b8ca223",
         "d4e90696-af95-4fc3-bb22-139408a736fd",
         "59cfe267-8c90-4bf2-afec-3c51bf92b72e",
-        "607a12ef-6b96-447e-a292-c144a3492b1a",
         "3f2c73fc-76a2-4891-b6b5-2c9ac18fdada",
         "f033d5d2-53dd-4906-a91d-d9d23616690e",
         "0216db21-15d2-4db1-82ca-910b350334f7",
@@ -869,6 +878,14 @@
             "button_label": "View products"
           }
         },
+        "0f82ecd3-b215-40b8-a0ab-3bebb98b1fa8": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-nerd",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "c4f0683c-84d4-4f7a-9485-78dc13b9a7e6": {
           "type": "collection",
           "settings": {
@@ -937,6 +954,7 @@
         "a699963b-be54-4774-88d8-07a2907965b9",
         "faf6863f-1310-429e-9103-cff2effa91b6",
         "8e043a03-7360-4166-a00a-a5bb0a0f1085",
+        "0f82ecd3-b215-40b8-a0ab-3bebb98b1fa8",
         "c4f0683c-84d4-4f7a-9485-78dc13b9a7e6",
         "9ec40f73-4ac7-4be6-bd63-a6ff871b439e",
         "4e8d32df-a711-47e0-9279-08c17a9f51d7",
