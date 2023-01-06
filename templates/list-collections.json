@@ -695,14 +695,6 @@
             "button_label": "View products"
           }
         },
-        "86e3e5c5-394c-453b-b574-a27290781995": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "funny-teacher",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
         "template--14604517212257__fd891a92-3956-4d87-992e-884e00151d99-16729545370e97f55e-1": {
           "type": "collection",
           "settings": {
@@ -738,6 +730,7 @@
         },
         "3eb4ab5a-c19d-45b4-985f-2d80c19c0b24": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "speech-elf",
             "title": "",
@@ -764,6 +757,14 @@
           "type": "collection",
           "settings": {
             "feature_collection": "transform-speech",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "86e3e5c5-394c-453b-b574-a27290781995": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "funny-teacher",
             "title": "",
             "button_label": "View products"
           }
@@ -812,7 +813,6 @@
       "block_order": [
         "3f845b9d-4376-4872-969b-c7fd58229106",
         "template--14604517212257__fd891a92-3956-4d87-992e-884e00151d99-16729545370e97f55e-0",
-        "86e3e5c5-394c-453b-b574-a27290781995",
         "template--14604517212257__fd891a92-3956-4d87-992e-884e00151d99-16729545370e97f55e-1",
         "d5d06917-9639-4c49-abd9-6fef1b05c441",
         "2ad54f81-d572-4858-9d7e-7b19c8a2e208",
@@ -821,6 +821,7 @@
         "f2e721c0-74df-47db-9833-b308269c3f1b",
         "12eeac49-438a-46f8-b8c6-f2fb5e30d76e",
         "5d4dda81-adcf-49ad-8c72-b6c075536596",
+        "86e3e5c5-394c-453b-b574-a27290781995",
         "f81c113b-d9c9-4590-803a-4e505faed26d",
         "294d9a49-d4d2-467f-b334-43977040d5f1",
         "3e26effa-28f3-44c4-9e0e-52ec0363b466",
@@ -846,6 +847,30 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "fea7facc-ce2e-40ae-8a24-4bd74b8206a1": {
+      "type": "index__heading",
+      "settings": {
+        "preheading": "",
+        "title": "Funny",
+        "subheading": "<p>Puns and other Silly Stuff<\/p>",
+        "preheading_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "subheading_color": "rgba(0,0,0,0)",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "heading_alignment": "center",
+        "vertical_spacing": "medium",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -858,6 +883,7 @@
     "fea37dd9-64e7-424a-aa02-4a30aac1e25a",
     "e9593fc5-1961-4e51-8392-0f71f3fb1d14",
     "d6d2cf05-dd00-4c9b-bd80-00f840e5de34",
-    "fd891a92-3956-4d87-992e-884e00151d99"
+    "fd891a92-3956-4d87-992e-884e00151d99",
+    "fea7facc-ce2e-40ae-8a24-4bd74b8206a1"
   ]
 }
