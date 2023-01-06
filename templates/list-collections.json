@@ -1308,7 +1308,7 @@
       "type": "index__heading",
       "settings": {
         "preheading": "",
-        "title": "Seasonal",
+        "title": "Autumn & Halloween",
         "subheading": "<p>Thanksgiving, Football, Ghosts & More<\/p>",
         "preheading_color": "rgba(0,0,0,0)",
         "heading_color": "rgba(0,0,0,0)",
@@ -1331,14 +1331,6 @@
     "ce872faa-c9ea-48f1-bd1f-5d2a809b0405": {
       "type": "index__collection-list",
       "blocks": {
-        "cd6178fc-95a8-4be0-a587-31cfbb05fcea": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "better-hearing-and-speech-month",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
         "52b854bd-f514-42d3-b20c-0a06a094411b": {
           "type": "collection",
           "settings": {
@@ -1454,7 +1446,6 @@
         }
       },
       "block_order": [
-        "cd6178fc-95a8-4be0-a587-31cfbb05fcea",
         "52b854bd-f514-42d3-b20c-0a06a094411b",
         "3532aebd-d9ec-426d-b535-4fcede1c3417",
         "14fd9b06-f0fa-450d-96a2-341716c6d243",
