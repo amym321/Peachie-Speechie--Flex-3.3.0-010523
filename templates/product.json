@@ -448,7 +448,7 @@
         "show_nav_buttons": true,
         "mobile_text_below_image": true,
         "width": "standard",
-        "padding_top": 70,
+        "padding_top": 80,
         "padding_bottom": 50,
         "animation": "none",
         "css_class": "",
