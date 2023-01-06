@@ -536,6 +536,14 @@
             "button_label": "View products"
           }
         },
+        "487d1ace-b809-4e91-9e7b-4550161cc5a8": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "you-cant-scare-me",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "3a1d86b6-e415-42ae-9541-d9bef674cb57": {
           "type": "collection",
           "settings": {
@@ -564,14 +572,6 @@
           "type": "collection",
           "settings": {
             "feature_collection": "ghosty-says-bu",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "487d1ace-b809-4e91-9e7b-4550161cc5a8": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "you-cant-scare-me",
             "title": "",
             "button_label": "View products"
           }
@@ -607,21 +607,30 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "9ec40f73-4ac7-4be6-bd63-a6ff871b439e": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "pirate",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
         "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-0",
         "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-1",
         "template--14604517212257__e9593fc5-1961-4e51-8392-0f71f3fb1d14-16729545370e97f55e-2",
+        "487d1ace-b809-4e91-9e7b-4550161cc5a8",
         "3a1d86b6-e415-42ae-9541-d9bef674cb57",
         "3c8d2416-432f-4c44-b01a-ac46b037d1cc",
         "b1191dd9-56f9-4969-bc69-e10a7d6c7358",
         "03039017-0cfa-4e6d-9072-41649cb92846",
-        "487d1ace-b809-4e91-9e7b-4550161cc5a8",
         "a699963b-be54-4774-88d8-07a2907965b9",
         "faf6863f-1310-429e-9103-cff2effa91b6",
         "8e043a03-7360-4166-a00a-a5bb0a0f1085",
-        "c4f0683c-84d4-4f7a-9485-78dc13b9a7e6"
+        "c4f0683c-84d4-4f7a-9485-78dc13b9a7e6",
+        "9ec40f73-4ac7-4be6-bd63-a6ff871b439e"
       ],
       "settings": {
         "collections_per_row": 5,
