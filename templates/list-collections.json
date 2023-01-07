@@ -721,6 +721,14 @@
             "button_label": "View products"
           }
         },
+        "4e991656-fb92-47fb-bda8-dd5d288ff430": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "students-on-point",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "321c9563-2d17-4be9-a406-7cd0337f43d2": {
           "type": "collection",
           "settings": {
@@ -749,6 +757,7 @@
         "1ce36142-9d3a-4562-9391-961983e63487",
         "a4dd909f-0b61-4a92-abb5-fc9fa602d215",
         "e0007e83-2d67-4663-8649-43c4a365bc12",
+        "4e991656-fb92-47fb-bda8-dd5d288ff430",
         "321c9563-2d17-4be9-a406-7cd0337f43d2"
       ],
       "settings": {
