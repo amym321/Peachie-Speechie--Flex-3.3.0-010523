@@ -659,7 +659,7 @@
         "d4e90696-af95-4fc3-bb22-139408a736fd": {
           "type": "collection",
           "settings": {
-            "feature_collection": "clinician-not-magician",
+            "feature_collection": "proud",
             "title": "",
             "button_label": "View products"
           }
@@ -683,7 +683,7 @@
         "0216db21-15d2-4db1-82ca-910b350334f7": {
           "type": "collection",
           "settings": {
-            "feature_collection": "5-slp",
+            "feature_collection": "okayest-slp",
             "title": "",
             "button_label": "View products"
           }
@@ -825,7 +825,7 @@
         "3a1d86b6-e415-42ae-9541-d9bef674cb57": {
           "type": "collection",
           "settings": {
-            "feature_collection": "the-slp",
+            "feature_collection": "how-to-say-the-r-sound",
             "title": "",
             "button_label": "View products"
           }
@@ -953,7 +953,7 @@
         "0b3a5a26-c2b0-4681-874e-1dd23f70729d": {
           "type": "collection",
           "settings": {
-            "feature_collection": "okayest-slp",
+            "feature_collection": "sound-waves",
             "title": "",
             "button_label": "View products"
           }
