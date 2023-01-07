@@ -1420,6 +1420,14 @@
             "button_label": "View products"
           }
         },
+        "015e82f1-d878-41bd-bbd5-35689f7af97a": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "colorful-speech-team",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "1a92612b-dbb9-4513-b912-9641534dcc7d": {
           "type": "collection",
           "settings": {
@@ -1507,6 +1515,14 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "6d264318-d06d-446b-833d-02eb293154b8": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "american-speech-language-pathologist",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -1517,6 +1533,7 @@
         "ba46274c-09ca-45b8-8a39-53ecd04217c8",
         "bb9b4f7d-1a6b-4a81-a73d-250122e82b62",
         "6108c9cb-4c25-4fef-91e2-157e106b89d6",
+        "015e82f1-d878-41bd-bbd5-35689f7af97a",
         "1a92612b-dbb9-4513-b912-9641534dcc7d",
         "33ab07bd-42bb-4524-b5d9-ed49771dba1c",
         "a2211840-681e-4d76-9ba1-fa163a6d94d2",
@@ -1527,7 +1544,8 @@
         "15cdeb88-e290-41c6-b620-14fcac973682",
         "3aa86de1-17cc-4fc3-9cf6-a4eb05c38367",
         "876a0bcf-1ccb-4a73-a7d0-7b21cc1ecfd4",
-        "6d5f9fcb-a018-42bd-85dd-ba27486ee78e"
+        "6d5f9fcb-a018-42bd-85dd-ba27486ee78e",
+        "6d264318-d06d-446b-833d-02eb293154b8"
       ],
       "settings": {
         "collections_per_row": 5,
