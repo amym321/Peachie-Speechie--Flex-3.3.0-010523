@@ -665,6 +665,14 @@
             "button_label": "View products"
           }
         },
+        "f033d5d2-53dd-4906-a91d-d9d23616690e": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "the-office-assistant-to-the-speech-language-pathologist",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "d4e90696-af95-4fc3-bb22-139408a736fd": {
           "type": "collection",
           "settings": {
@@ -677,14 +685,6 @@
           "type": "collection",
           "settings": {
             "feature_collection": "beach-please",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "f033d5d2-53dd-4906-a91d-d9d23616690e": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "coffee-speech-repeat",
             "title": "",
             "button_label": "View products"
           }
@@ -750,9 +750,9 @@
         "ebcaa162-2711-4799-b3f4-0e68392454a8",
         "f25ce7d8-4d17-4f26-883e-337c2da44336",
         "287d7b83-e2a0-4e58-8c65-97da5b8ca223",
+        "f033d5d2-53dd-4906-a91d-d9d23616690e",
         "d4e90696-af95-4fc3-bb22-139408a736fd",
         "59cfe267-8c90-4bf2-afec-3c51bf92b72e",
-        "f033d5d2-53dd-4906-a91d-d9d23616690e",
         "0216db21-15d2-4db1-82ca-910b350334f7",
         "1ce36142-9d3a-4562-9391-961983e63487",
         "a4dd909f-0b61-4a92-abb5-fc9fa602d215",
