@@ -593,6 +593,14 @@
             "button_label": "View products"
           }
         },
+        "3f2c73fc-76a2-4891-b6b5-2c9ac18fdada": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "coffee-into-speech",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "template--14604693340257__bc9fe864-4055-4971-a915-383a6007a2a2-167296725468fb0150-2": {
           "type": "collection",
           "settings": {
@@ -673,14 +681,6 @@
             "button_label": "View products"
           }
         },
-        "3f2c73fc-76a2-4891-b6b5-2c9ac18fdada": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "coffee-into-speech",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
         "f033d5d2-53dd-4906-a91d-d9d23616690e": {
           "type": "collection",
           "settings": {
@@ -716,7 +716,7 @@
         "e0007e83-2d67-4663-8649-43c4a365bc12": {
           "type": "collection",
           "settings": {
-            "feature_collection": "slp-job-title",
+            "feature_collection": "speech-nerd",
             "title": "",
             "button_label": "View products"
           }
@@ -741,6 +741,7 @@
       "block_order": [
         "template--14604693340257__bc9fe864-4055-4971-a915-383a6007a2a2-167296725468fb0150-0",
         "template--14604693340257__bc9fe864-4055-4971-a915-383a6007a2a2-167296725468fb0150-1",
+        "3f2c73fc-76a2-4891-b6b5-2c9ac18fdada",
         "template--14604693340257__bc9fe864-4055-4971-a915-383a6007a2a2-167296725468fb0150-2",
         "d454ccf5-113f-477a-bba5-3b7002e88ec2",
         "8be0a1fe-6a74-4f73-ab49-25d808818d23",
@@ -751,7 +752,6 @@
         "287d7b83-e2a0-4e58-8c65-97da5b8ca223",
         "d4e90696-af95-4fc3-bb22-139408a736fd",
         "59cfe267-8c90-4bf2-afec-3c51bf92b72e",
-        "3f2c73fc-76a2-4891-b6b5-2c9ac18fdada",
         "f033d5d2-53dd-4906-a91d-d9d23616690e",
         "0216db21-15d2-4db1-82ca-910b350334f7",
         "1ce36142-9d3a-4562-9391-961983e63487",
@@ -890,7 +890,7 @@
         "0f82ecd3-b215-40b8-a0ab-3bebb98b1fa8": {
           "type": "collection",
           "settings": {
-            "feature_collection": "speech-nerd",
+            "feature_collection": "slp-job-title",
             "title": "",
             "button_label": "View products"
           }
