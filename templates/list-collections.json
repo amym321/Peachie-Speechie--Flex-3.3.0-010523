@@ -166,6 +166,14 @@
             "button_label": "View products"
           }
         },
+        "cb5559a9-e157-4608-9d52-556f0829477a": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-heart",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "ce09f90c-4ba0-4a6e-bcb5-d4e09c3da75f": {
           "type": "collection",
           "settings": {
@@ -275,6 +283,7 @@
         "template--14580755857505__c53dead8-43ed-447a-b5aa-58638963687e-1668594634bf77c618-0",
         "template--14580755857505__c53dead8-43ed-447a-b5aa-58638963687e-1668594634bf77c618-1",
         "template--14580755857505__c53dead8-43ed-447a-b5aa-58638963687e-1668594634bf77c618-2",
+        "cb5559a9-e157-4608-9d52-556f0829477a",
         "ce09f90c-4ba0-4a6e-bcb5-d4e09c3da75f",
         "8fe81a3e-69be-4174-b1b5-74be6159c39c",
         "495e7ff6-2171-4485-bfa8-b2a0b58ba759",
@@ -1371,6 +1380,14 @@
             "button_label": "View products"
           }
         },
+        "fc44ae38-5e42-4043-b090-07f7c9dd6509": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "colorful-speech-muted-rainbow-speech-apparel",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "14fd9b06-f0fa-450d-96a2-341716c6d243": {
           "type": "collection",
           "settings": {
@@ -1382,15 +1399,7 @@
         "ba46274c-09ca-45b8-8a39-53ecd04217c8": {
           "type": "collection",
           "settings": {
-            "feature_collection": "speech-smore",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "fc44ae38-5e42-4043-b090-07f7c9dd6509": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "you-cant-scare-me",
+            "feature_collection": "3d-slp",
             "title": "",
             "button_label": "View products"
           }
@@ -1398,7 +1407,7 @@
         "bb9b4f7d-1a6b-4a81-a73d-250122e82b62": {
           "type": "collection",
           "settings": {
-            "feature_collection": "happy-halloween-skeleton",
+            "feature_collection": "earthy-slp",
             "title": "",
             "button_label": "View products"
           }
@@ -1406,7 +1415,7 @@
         "6108c9cb-4c25-4fef-91e2-157e106b89d6": {
           "type": "collection",
           "settings": {
-            "feature_collection": "skeleton-slp",
+            "feature_collection": "speech-language-pathology-more-than-just-words",
             "title": "",
             "button_label": "View products"
           }
@@ -1414,7 +1423,7 @@
         "1a92612b-dbb9-4513-b912-9641534dcc7d": {
           "type": "collection",
           "settings": {
-            "feature_collection": "spider-web-slp",
+            "feature_collection": "slp-circle",
             "title": "",
             "button_label": "View products"
           }
@@ -1422,7 +1431,7 @@
         "33ab07bd-42bb-4524-b5d9-ed49771dba1c": {
           "type": "collection",
           "settings": {
-            "feature_collection": "ghosty-says-bu",
+            "feature_collection": "slp-emblem",
             "title": "",
             "button_label": "View products"
           }
@@ -1430,7 +1439,7 @@
         "a2211840-681e-4d76-9ba1-fa163a6d94d2": {
           "type": "collection",
           "settings": {
-            "feature_collection": "salem-speech-for-witches-wizards",
+            "feature_collection": "slp-stamp",
             "title": "",
             "button_label": "View products"
           }
@@ -1438,7 +1447,7 @@
         "2040759a-db0a-43bc-8c8d-268c36c98cc9": {
           "type": "collection",
           "settings": {
-            "feature_collection": "thankful",
+            "feature_collection": "speech-language-pathologists-have-a-way-with-words",
             "title": "",
             "button_label": "View products"
           }
@@ -1446,7 +1455,7 @@
         "31f5dbba-8f41-4b8c-ba43-b5dc61a65390": {
           "type": "collection",
           "settings": {
-            "feature_collection": "happy-camper",
+            "feature_collection": "slp-brain",
             "title": "",
             "button_label": "View products"
           }
@@ -1454,16 +1463,47 @@
         "9eb00116-65d1-4f38-bb7b-652d54b346e6": {
           "type": "collection",
           "settings": {
-            "feature_collection": "pirate",
+            "feature_collection": "speech-path-script",
             "title": "",
             "button_label": "View products"
           }
         },
         "c33d5b7e-4471-48cd-a715-383a87099c45": {
           "type": "collection",
-          "disabled": true,
           "settings": {
-            "feature_collection": "",
+            "feature_collection": "speech-language-pathologist-rollercoaster",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "15cdeb88-e290-41c6-b620-14fcac973682": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "stretchy-rainbow-speech",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "3aa86de1-17cc-4fc3-9cf6-a4eb05c38367": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-club",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "876a0bcf-1ccb-4a73-a7d0-7b21cc1ecfd4": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-path",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "6d5f9fcb-a018-42bd-85dd-ba27486ee78e": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-language-pathology-smush",
             "title": "",
             "button_label": "View products"
           }
@@ -1472,9 +1512,9 @@
       "block_order": [
         "52b854bd-f514-42d3-b20c-0a06a094411b",
         "3532aebd-d9ec-426d-b535-4fcede1c3417",
+        "fc44ae38-5e42-4043-b090-07f7c9dd6509",
         "14fd9b06-f0fa-450d-96a2-341716c6d243",
         "ba46274c-09ca-45b8-8a39-53ecd04217c8",
-        "fc44ae38-5e42-4043-b090-07f7c9dd6509",
         "bb9b4f7d-1a6b-4a81-a73d-250122e82b62",
         "6108c9cb-4c25-4fef-91e2-157e106b89d6",
         "1a92612b-dbb9-4513-b912-9641534dcc7d",
@@ -1483,7 +1523,11 @@
         "2040759a-db0a-43bc-8c8d-268c36c98cc9",
         "31f5dbba-8f41-4b8c-ba43-b5dc61a65390",
         "9eb00116-65d1-4f38-bb7b-652d54b346e6",
-        "c33d5b7e-4471-48cd-a715-383a87099c45"
+        "c33d5b7e-4471-48cd-a715-383a87099c45",
+        "15cdeb88-e290-41c6-b620-14fcac973682",
+        "3aa86de1-17cc-4fc3-9cf6-a4eb05c38367",
+        "876a0bcf-1ccb-4a73-a7d0-7b21cc1ecfd4",
+        "6d5f9fcb-a018-42bd-85dd-ba27486ee78e"
       ],
       "settings": {
         "collections_per_row": 5,
