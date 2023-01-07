@@ -949,6 +949,14 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "0b3a5a26-c2b0-4681-874e-1dd23f70729d": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "okayest-slp",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -970,7 +978,8 @@
         "873b6993-13b7-46b7-93d3-9f2e0f11e9f2",
         "ff940784-a791-455e-bafb-66e7e418c0c5",
         "b8e0f2d0-7acb-4bd0-9bd6-e1a1571cc461",
-        "e267f608-a998-457a-b232-0a7491f4a7b0"
+        "e267f608-a998-457a-b232-0a7491f4a7b0",
+        "0b3a5a26-c2b0-4681-874e-1dd23f70729d"
       ],
       "settings": {
         "collections_per_row": 5,
