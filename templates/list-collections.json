@@ -1027,6 +1027,14 @@
             "button_label": "View products"
           }
         },
+        "9d06a94f-452d-4606-9e18-2afe2de98fde": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "your-words-matter",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "0fdc3274-b250-451e-b78a-2678de09206f": {
           "type": "collection",
           "settings": {
@@ -1059,6 +1067,14 @@
             "button_label": "View products"
           }
         },
+        "df670320-c910-4836-9e54-466cad2ff6c9": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "every-voice-matters",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "8c9fc41e-d75f-48c4-9cb1-6440a31db9d1": {
           "type": "collection",
           "settings": {
@@ -1083,6 +1099,14 @@
             "button_label": "View products"
           }
         },
+        "6aca5a13-6733-424a-9b4d-4a281f6b35fb": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "everyone-deserves-a-voice",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "9c4785a1-a202-4241-b6f8-f7b9d14b8282": {
           "type": "collection",
           "settings": {
@@ -1090,58 +1114,21 @@
             "title": "",
             "button_label": "View products"
           }
-        },
-        "9d06a94f-452d-4606-9e18-2afe2de98fde": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "feature_collection": "thankful",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "df670320-c910-4836-9e54-466cad2ff6c9": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "feature_collection": "happy-camper",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "6aca5a13-6733-424a-9b4d-4a281f6b35fb": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "feature_collection": "speech-smore",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "a7c070f7-64e6-48ff-b55b-0b722198105b": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "feature_collection": "pirate",
-            "title": "",
-            "button_label": "View products"
-          }
         }
       },
       "block_order": [
         "a2c76fb7-4841-4ff1-94ed-a94bbe86fadd",
+        "9d06a94f-452d-4606-9e18-2afe2de98fde",
         "0fdc3274-b250-451e-b78a-2678de09206f",
         "8fcba130-236b-4d05-bc48-220e253d2189",
         "dadf8011-7bae-4946-aa04-3b5a2d040dcd",
         "1eb5e8b1-778f-4c50-ac0f-6cdce4970c16",
+        "df670320-c910-4836-9e54-466cad2ff6c9",
         "8c9fc41e-d75f-48c4-9cb1-6440a31db9d1",
         "17398894-7e89-438c-9303-9bc87394e732",
         "cafcbdda-9b10-4a1d-9e7e-8531a8243366",
-        "9c4785a1-a202-4241-b6f8-f7b9d14b8282",
-        "9d06a94f-452d-4606-9e18-2afe2de98fde",
-        "df670320-c910-4836-9e54-466cad2ff6c9",
         "6aca5a13-6733-424a-9b4d-4a281f6b35fb",
-        "a7c070f7-64e6-48ff-b55b-0b722198105b"
+        "9c4785a1-a202-4241-b6f8-f7b9d14b8282"
       ],
       "settings": {
         "collections_per_row": 5,
@@ -1222,18 +1209,18 @@
             "button_label": "View products"
           }
         },
-        "626df596-99df-4cb8-9878-235f518f8869": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "best-job-ever",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
         "21071105-ddad-4f30-b4b9-94d1be13454e": {
           "type": "collection",
           "settings": {
             "feature_collection": "think-happy-be-happy",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "626df596-99df-4cb8-9878-235f518f8869": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "best-job-ever",
             "title": "",
             "button_label": "View products"
           }
@@ -1264,6 +1251,7 @@
         },
         "fd35f7ab-2b53-4b17-96d7-c23e2c637c9e": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "every-voice-matters",
             "title": "",
@@ -1272,6 +1260,7 @@
         },
         "ad66ff1a-8aae-48ff-9188-b1180ec5ad58": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "everyone-deserves-a-voice",
             "title": "",
@@ -1300,8 +1289,8 @@
         "dbe3595d-2870-4b47-b6f5-b2a21d3c3d7a",
         "d272263a-e4ba-4194-b291-971c22e82e9c",
         "f7d2833c-cebc-4fd2-8c20-d35ce6d5ca81",
-        "626df596-99df-4cb8-9878-235f518f8869",
         "21071105-ddad-4f30-b4b9-94d1be13454e",
+        "626df596-99df-4cb8-9878-235f518f8869",
         "870486da-2eab-470c-9b4b-eb4df72bb3e8",
         "fc9cbcae-5ed1-403b-8431-a69a16100bad",
         "3e61bac2-6b07-489b-932d-9dc435ac037d",
