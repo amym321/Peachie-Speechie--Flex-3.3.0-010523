@@ -987,8 +987,8 @@
       "type": "index__heading",
       "settings": {
         "preheading": "",
-        "title": "Neurodiversity",
-        "subheading": "<p>Celebrate neurodiversity<\/p>",
+        "title": "Inclusion",
+        "subheading": "<p>Love what makes you different<\/p>",
         "preheading_color": "rgba(0,0,0,0)",
         "heading_color": "rgba(0,0,0,0)",
         "subheading_color": "rgba(0,0,0,0)",
@@ -1160,7 +1160,7 @@
       "settings": {
         "preheading": "",
         "title": "Positivity",
-        "subheading": "<p>Keep your head up<\/p>",
+        "subheading": "<p>Smiles are contagious<\/p>",
         "preheading_color": "rgba(0,0,0,0)",
         "heading_color": "rgba(0,0,0,0)",
         "subheading_color": "rgba(0,0,0,0)",
