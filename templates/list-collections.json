@@ -2062,6 +2062,7 @@
         },
         "fdc24146-53d1-43da-854a-a8757889bc70": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "north-pole-speech-therapy",
             "title": "",
@@ -2070,6 +2071,7 @@
         },
         "13ee81ec-b5df-45f8-8399-f199b70452b3": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "talking-in-a-winter-wonderland",
             "title": "",
@@ -2078,6 +2080,7 @@
         },
         "494766e7-23c7-4932-ad0b-7e80d1c36e80": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "merry-christmas-tree-slp",
             "title": "",
@@ -2086,6 +2089,7 @@
         },
         "f51e86c3-4f90-420f-b10d-892447d61b07": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "have-yourself-a-speechie-little-christmas",
             "title": "",
@@ -2094,6 +2098,7 @@
         },
         "51815d81-608b-42b3-97c1-a914fdd4613c": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "alveolar-ridge-ski-resort-lodge",
             "title": "",
@@ -2102,6 +2107,7 @@
         },
         "9336e352-a333-44a9-9e2b-9e35ee055f91": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "slp-needs-coffee",
             "title": "",
