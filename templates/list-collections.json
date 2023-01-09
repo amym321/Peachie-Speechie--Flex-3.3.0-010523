@@ -403,15 +403,6 @@
             "button_label": "View products"
           }
         },
-        "3eb4ab5a-c19d-45b4-985f-2d80c19c0b24": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "feature_collection": "speech-elf",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
         "f2e721c0-74df-47db-9833-b308269c3f1b": {
           "type": "collection",
           "settings": {
@@ -448,6 +439,14 @@
           "type": "collection",
           "settings": {
             "feature_collection": "speech-jam",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "3eb4ab5a-c19d-45b4-985f-2d80c19c0b24": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "keep-talking",
             "title": "",
             "button_label": "View products"
           }
@@ -524,12 +523,12 @@
         "d5d06917-9639-4c49-abd9-6fef1b05c441",
         "2ad54f81-d572-4858-9d7e-7b19c8a2e208",
         "template--14604517212257__fd891a92-3956-4d87-992e-884e00151d99-16729545370e97f55e-2",
-        "3eb4ab5a-c19d-45b4-985f-2d80c19c0b24",
         "f2e721c0-74df-47db-9833-b308269c3f1b",
         "12eeac49-438a-46f8-b8c6-f2fb5e30d76e",
         "74a8e6f3-d4b0-4d9a-8a5e-44eca99e32b4",
         "0517dabd-eeca-4642-b6ec-b0c4d02af3f4",
         "e0619019-3669-402c-949b-759cbff73601",
+        "3eb4ab5a-c19d-45b4-985f-2d80c19c0b24",
         "5d4dda81-adcf-49ad-8c72-b6c075536596",
         "86e3e5c5-394c-453b-b574-a27290781995",
         "f81c113b-d9c9-4590-803a-4e505faed26d",
@@ -1144,6 +1143,7 @@
         },
         "ee91ae04-13ac-4aeb-a466-53fd022bbc8d": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "",
             "title": "",
@@ -1322,7 +1322,15 @@
         "9b74ccb6-77c3-4cfb-b20b-7392581e2ee9": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
+            "feature_collection": "rainbow-speech",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "652aca2a-6522-4dd2-a71d-0de97dd9e1e0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "today-is-a-good-day-to-be-inclusive",
             "title": "",
             "button_label": "View products"
           }
@@ -1342,7 +1350,8 @@
         "ad66ff1a-8aae-48ff-9188-b1180ec5ad58",
         "1f372e80-eb15-43a5-a971-9dec2a354095",
         "5cecb5f0-f75b-449a-be77-75f77a6ecaca",
-        "9b74ccb6-77c3-4cfb-b20b-7392581e2ee9"
+        "9b74ccb6-77c3-4cfb-b20b-7392581e2ee9",
+        "652aca2a-6522-4dd2-a71d-0de97dd9e1e0"
       ],
       "settings": {
         "collections_per_row": 5,
