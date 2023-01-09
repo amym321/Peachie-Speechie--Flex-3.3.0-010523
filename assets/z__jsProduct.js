@@ -6735,7 +6735,7 @@ class Product {
           });
 
           $productGallery.on('change.flickity', () => {
-            $productGallery.flickity('');
+            $productGallery.flickity('resize');
             const $productGalleryHeight = $productGallery.height();
             $thumbnailProductGallery.css('max-height', $productGalleryHeight);
           });
