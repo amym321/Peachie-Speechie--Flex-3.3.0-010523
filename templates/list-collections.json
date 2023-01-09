@@ -277,6 +277,14 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "894e64e0-ec9f-456a-870f-e56c309c4bd0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "american-speech-language-pathologist",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -296,7 +304,8 @@
         "dfb915d9-fcad-4057-b888-6a797ace5999",
         "34c0bd43-59d2-4144-8f49-b1c16e8db830",
         "019b2ca7-723f-4397-a1ce-79911724ea62",
-        "f18ac0e7-558d-44c2-a033-bc957e168184"
+        "f18ac0e7-558d-44c2-a033-bc957e168184",
+        "894e64e0-ec9f-456a-870f-e56c309c4bd0"
       ],
       "settings": {
         "collections_per_row": 5,
@@ -1528,7 +1537,7 @@
         "6d264318-d06d-446b-833d-02eb293154b8": {
           "type": "collection",
           "settings": {
-            "feature_collection": "american-speech-language-pathologist",
+            "feature_collection": "slp-hands",
             "title": "",
             "button_label": "View products"
           }
