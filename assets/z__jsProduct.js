@@ -2072,7 +2072,7 @@ proto.applyForce = function( force ) {
 };
 
 proto.getFrictionFactor = function() {
-  return 1 - this.options[ this.isFreeScrolling ? 'freeScrollFriction' : 'friction' ];
+  return 1 - this.options[ this.isFreeScrolling ? 'freeScrollFriction' : '' ];
 };
 
 proto.getRestingPosition = function() {
