@@ -1219,6 +1219,14 @@
             "button_label": "View products"
           }
         },
+        "ea3ecb78-ffcb-4e5a-bcca-2cde39950f68": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "college-style-speech",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "dbe3595d-2870-4b47-b6f5-b2a21d3c3d7a": {
           "type": "collection",
           "settings": {
@@ -1243,18 +1251,18 @@
             "button_label": "View products"
           }
         },
-        "21071105-ddad-4f30-b4b9-94d1be13454e": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "think-happy-be-happy",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
         "626df596-99df-4cb8-9878-235f518f8869": {
           "type": "collection",
           "settings": {
             "feature_collection": "best-job-ever",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "21071105-ddad-4f30-b4b9-94d1be13454e": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "think-happy-be-happy",
             "title": "",
             "button_label": "View products"
           }
@@ -1350,11 +1358,12 @@
       },
       "block_order": [
         "dd1653ee-fe82-4f02-beaf-164ea0fc81c1",
+        "ea3ecb78-ffcb-4e5a-bcca-2cde39950f68",
         "dbe3595d-2870-4b47-b6f5-b2a21d3c3d7a",
         "d272263a-e4ba-4194-b291-971c22e82e9c",
         "f7d2833c-cebc-4fd2-8c20-d35ce6d5ca81",
-        "21071105-ddad-4f30-b4b9-94d1be13454e",
         "626df596-99df-4cb8-9878-235f518f8869",
+        "21071105-ddad-4f30-b4b9-94d1be13454e",
         "5cf4b415-1964-4161-a88c-d929e299c041",
         "870486da-2eab-470c-9b4b-eb4df72bb3e8",
         "fc9cbcae-5ed1-403b-8431-a69a16100bad",
@@ -1417,7 +1426,7 @@
         "52b854bd-f514-42d3-b20c-0a06a094411b": {
           "type": "collection",
           "settings": {
-            "feature_collection": "college-style-speech",
+            "feature_collection": "mellow-speech-and-language",
             "title": "",
             "button_label": "View products"
           }
