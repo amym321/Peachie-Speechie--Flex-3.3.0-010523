@@ -6972,7 +6972,8 @@ window.PXUTheme.jsProduct = {
         $relatedSlider.flickity({
           freeScrollFriction: 0.075, // friction when free-scrolling
           friction: 0.28, // speed and motion of the slider.
-          resize: true, // this should resize the height per js
+          // resize: true, //snaps slider into place
+          resize: false,
           selectedAttraction: 0.025, //speed and motion of the slider.
           //wrapAround: true,
           contain: false,
@@ -6980,7 +6981,7 @@ window.PXUTheme.jsProduct = {
         
                 // original options:
           // lazyLoad: 2,
-          // freeScroll: true,
+          freeScroll: true,
           imagesLoaded: true,
           draggable: true,
           cellAlign: 'center',
@@ -6992,10 +6993,10 @@ window.PXUTheme.jsProduct = {
           arrowShape: window.arrowShape,
         });
 
-        // Resize flickity when the slider is settled
-        $relatedSlider.on('settle.flickity', () => $relatedSlider.flickity('resize'));
+        // Resize flickity when the slider is settled   //snaps slider into place
+        // $relatedSlider.on('settle.flickity', () => $relatedSlider.flickity('resize'));
 
-        $(window).on('load', () => $relatedSlider.flickity('resize'));
+        // $(window).on('load', () => $relatedSlider.flickity('resize'));
       }
     });
   },

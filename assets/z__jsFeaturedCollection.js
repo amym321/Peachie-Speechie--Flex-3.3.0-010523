@@ -44,7 +44,7 @@ window.PXUTheme.jsFeaturedCollection = {
         ready: function() {
           // Resize flickity when the slider is settled
           $(featuredCollectionSlider).on( 'settle.flickity', function() {
-            $(featuredCollectionSlider).flickity('')
+            //$(featuredCollectionSlider).flickity('resize')    // no longer want it to snap in place
           });
         }
       }

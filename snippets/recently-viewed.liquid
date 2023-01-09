@@ -143,7 +143,9 @@
           friction: 0.28, // speed and motion of the slider.
           //namespaceJQueryEvents: true,
           //percentPosition: true,
-          resize: true, // this should resize the height per js
+          //resize: true, // or snap the slider into place
+          resize: false,
+          freeScroll: true,
           selectedAttraction: 0.025, //speed and motion of the slider.
           //setGallerySize: true,
           //wrapAround: true, // need true since offset starts in center
@@ -157,10 +159,10 @@
         groupCells: group,  //needs to be false when other than 2 cells. For 2 cells it won't be offset though
         arrowShape: "M64.44,83.92a2,2,0,0,0-.47-.78L30.83,50,64,16.86a2,2,0,0,0,.47-.78l9.81-9.66a2,2,0,1,0-2.81-2.84l-45.69,45a2,2,0,0,0,0,2.84l45.69,45a2,2,0,1,0,2.81-2.84Z"
       });
-        // Resize flickity when the slider is settled
-        $('#rvp-slider').on('settle.flickity', () => $('#rvp-slider').flickity('resize'));
+        // Resize flickity when the slider is settled.  //snaps slider into place
+        //$('#rvp-slider').on('settle.flickity', () => $('#rvp-slider').flickity('resize'));
 
-        $(window).on('load', () => $('#rvp-slider').flickity('resize'));
+        //$(window).on('load', () => $('#rvp-slider').flickity('resize'));
     }  
   })
 </script>
