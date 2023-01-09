@@ -6970,7 +6970,7 @@ window.PXUTheme.jsProduct = {
         $relatedSlider.find('.gallery-cell').addClass('column');
       } else {
         $relatedSlider.flickity({
-          freeScrollFriction: 0.075, // friction when free-scrolling
+          freeScrollFriction: 0.0, // friction when free-scrolling
           friction: 0.28, // speed and motion of the slider.
           resize: true, // this should resize the height per js
           selectedAttraction: 0.025, //speed and motion of the slider.
