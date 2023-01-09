@@ -929,7 +929,7 @@
         "21dfefeb-4ac5-4d3d-80a5-dd18b644646b": {
           "type": "collection",
           "settings": {
-            "feature_collection": "i-guess-i-m-a-teletherapist-now",
+            "feature_collection": "speech-anatomy-notes",
             "title": "",
             "button_label": "View products"
           }
@@ -961,7 +961,7 @@
         "e267f608-a998-457a-b232-0a7491f4a7b0": {
           "type": "collection",
           "settings": {
-            "feature_collection": "speech-path-rainbow",
+            "feature_collection": "slp-university",
             "title": "",
             "button_label": "View products"
           }
@@ -1330,6 +1330,22 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "1c3ed1b0-402f-4b7a-8af1-dbfc08d848f8": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-path-rainbow",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "5cf4b415-1964-4161-a88c-d929e299c041": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "communicate",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -1347,7 +1363,9 @@
         "1f372e80-eb15-43a5-a971-9dec2a354095",
         "5cecb5f0-f75b-449a-be77-75f77a6ecaca",
         "9b74ccb6-77c3-4cfb-b20b-7392581e2ee9",
-        "652aca2a-6522-4dd2-a71d-0de97dd9e1e0"
+        "652aca2a-6522-4dd2-a71d-0de97dd9e1e0",
+        "1c3ed1b0-402f-4b7a-8af1-dbfc08d848f8",
+        "5cf4b415-1964-4161-a88c-d929e299c041"
       ],
       "settings": {
         "collections_per_row": 5,
