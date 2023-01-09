@@ -1372,6 +1372,14 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "120a93b8-92d4-47ce-a98b-8754e4c3f81b": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "communication-builder",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -1392,7 +1400,8 @@
         "5cecb5f0-f75b-449a-be77-75f77a6ecaca",
         "9b74ccb6-77c3-4cfb-b20b-7392581e2ee9",
         "652aca2a-6522-4dd2-a71d-0de97dd9e1e0",
-        "1c3ed1b0-402f-4b7a-8af1-dbfc08d848f8"
+        "1c3ed1b0-402f-4b7a-8af1-dbfc08d848f8",
+        "120a93b8-92d4-47ce-a98b-8754e4c3f81b"
       ],
       "settings": {
         "collections_per_row": 5,
@@ -1671,6 +1680,14 @@
             "button_label": "View products"
           }
         },
+        "9eec696b-c6fd-40dc-90c4-ad9980a6ab9e": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "retro-speechie",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "56b72429-445e-471c-a884-c0f95eff1274": {
           "type": "collection",
           "settings": {
@@ -1686,14 +1703,42 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "a14cc71a-4d72-42af-83d1-e5fdbc62ee6b": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "bubbly-ccc-slp",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "a97d7cb1-6bfe-4f8e-8096-a34717655fb4": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "sporty-speech",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "f5cac09e-a023-4ad3-be1c-68a9c0fa53a9": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-is-cardio",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
         "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-0",
         "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-1",
         "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-2",
+        "9eec696b-c6fd-40dc-90c4-ad9980a6ab9e",
         "56b72429-445e-471c-a884-c0f95eff1274",
-        "6ffc2693-0bf1-4f90-805d-519a7db5e118"
+        "6ffc2693-0bf1-4f90-805d-519a7db5e118",
+        "a14cc71a-4d72-42af-83d1-e5fdbc62ee6b",
+        "a97d7cb1-6bfe-4f8e-8096-a34717655fb4",
+        "f5cac09e-a023-4ad3-be1c-68a9c0fa53a9"
       ],
       "settings": {
         "collections_per_row": 5,
