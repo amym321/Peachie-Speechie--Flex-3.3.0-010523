@@ -1638,7 +1638,7 @@
         "width": "standard",
         "show_gutter": true,
         "padding_top": 10,
-        "padding_bottom": 10,
+        "padding_bottom": 0,
         "animation": "none",
         "css_class": "",
         "custom_css": ""
@@ -1691,7 +1691,7 @@
         "width": "standard",
         "show_gutter": true,
         "padding_top": 0,
-        "padding_bottom": 20,
+        "padding_bottom": 10,
         "animation": "none",
         "css_class": "",
         "custom_css": ""
