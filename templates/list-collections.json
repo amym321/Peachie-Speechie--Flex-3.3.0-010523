@@ -2369,6 +2369,7 @@
           "type": "image",
           "settings": {
             "link": "shopify:\/\/collections\/on-sale",
+            "image": "shopify:\/\/shop_images\/debut-slp-rollercoaster-cover-image.jpg",
             "pretext": "",
             "title": "Special Offers",
             "subtitle": "<p>Sale items available for a limited time<\/p>",
@@ -2376,9 +2377,9 @@
             "heading_color": "#000000",
             "subheading_color": "#000000",
             "text_alignment": "center",
-            "text_horizontal_position": "center",
+            "text_horizontal_position": "left",
             "background_color": "#FFFFFF",
-            "background_opacity": 77,
+            "background_opacity": 90,
             "border_color": "#FFFFFF",
             "border_width": 0,
             "text_width": 40,
@@ -2388,10 +2389,10 @@
             "button_2": "",
             "button_2_link": "",
             "button_2_style": "button--secondary",
-            "mobile_image_crop": "none",
-            "pretext_color_mobile": "rgba(0,0,0,0)",
-            "heading_color_mobile": "rgba(0,0,0,0)",
-            "subheading_color_mobile": "rgba(0,0,0,0)"
+            "mobile_image_crop": "center",
+            "pretext_color_mobile": "#000000",
+            "heading_color_mobile": "#000000",
+            "subheading_color_mobile": "#000000"
           }
         },
         "template--14604693340257__0e9df09f-4d40-4b44-9dcb-47b856686ad3-16732422254af853cf-1": {
