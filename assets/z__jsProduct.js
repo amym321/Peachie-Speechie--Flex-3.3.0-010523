@@ -2458,7 +2458,7 @@ proto._getCanCellFit = function() {
 
 // alias _init for jQuery plugin .flickity()
 proto._init =
-proto. = function() {
+proto.reposition = function() {
   this.positionCells();
   this.positionSliderAtSelected();
 };
