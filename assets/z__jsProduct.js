@@ -2873,7 +2873,7 @@ proto.onresize = function() {
   this.resize();
 };
 
-utils.debounceMethod( Flickity, 'onresize', 150 );
+utils.debounceMethod( Flickity, '', 150 );
 
 proto.resize = function() {
   // #1177 disable resize behavior when animating or dragging for iOS 15
