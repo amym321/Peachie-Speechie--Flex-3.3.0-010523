@@ -293,6 +293,14 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "790242bd-99a1-4cc0-83e0-88f6ca3e4ac3": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "groovy-speech-language",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -314,7 +322,8 @@
         "019b2ca7-723f-4397-a1ce-79911724ea62",
         "f18ac0e7-558d-44c2-a033-bc957e168184",
         "894e64e0-ec9f-456a-870f-e56c309c4bd0",
-        "0858b2f7-0db5-4cd5-a7fe-76a73c51a692"
+        "0858b2f7-0db5-4cd5-a7fe-76a73c51a692",
+        "790242bd-99a1-4cc0-83e0-88f6ca3e4ac3"
       ],
       "settings": {
         "collections_per_row": 5,
@@ -1635,6 +1644,59 @@
         "custom_css": ""
       }
     },
+    "27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01": {
+      "type": "index__collection-list",
+      "blocks": {
+        "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "taco-bout-it",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "groovy-speech-language",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        }
+      },
+      "block_order": [
+        "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-0",
+        "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-1",
+        "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-2"
+      ],
+      "settings": {
+        "collections_per_row": 5,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": true,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 0,
+        "overlay_text": "#FFFFFF",
+        "collection_title_below_image": false,
+        "hide_title_cta": true,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "5f99d42b-4dc2-4504-8775-1acddae00e23": {
       "type": "index__heading",
       "settings": {
@@ -2237,6 +2299,7 @@
     "37657355-60f7-48e2-8be2-3fb0ba28405a",
     "452f84c1-3dbb-44b3-b10e-3d0efd1d3365",
     "ce872faa-c9ea-48f1-bd1f-5d2a809b0405",
+    "27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01",
     "5f99d42b-4dc2-4504-8775-1acddae00e23",
     "01f78faa-feb9-4777-8d95-b9a45e36100f",
     "79edd476-41d3-4204-a768-7c84c7c522c2",
