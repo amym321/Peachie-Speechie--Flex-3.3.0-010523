@@ -6698,7 +6698,7 @@ class Product {
 
     $(window).on('resize', () => {
       clearTimeout(resizeTimer);
-      resizeTimer = setTimeout(() => $productGallery.flickity(''), 250);
+      resizeTimer = setTimeout(() => $productGallery.flickity('resize'), 250);
     });
 
     if (window.isScreenSizeMedium()) {
