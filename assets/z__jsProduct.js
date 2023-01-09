@@ -6780,8 +6780,8 @@ class Product {
           });
 
           // Resize flickity when the slider is settled
-          $thumbnailProductGallery.on('settle.flickity', () => $thumbnailProductGallery.flickity(''));
-          $(window).on('load', () => $thumbnailProductGallery.flickity(''));
+          $thumbnailProductGallery.on('settle.flickity', () => $thumbnailProductGallery.flickity('resize'));
+          $(window).on('load', () => $thumbnailProductGallery.flickity('resize'));
         }
       } else {
         // Otherwise create standard thumbnail slider
