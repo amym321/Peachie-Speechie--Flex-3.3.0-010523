@@ -380,9 +380,8 @@
         },
         "d5d06917-9639-4c49-abd9-6fef1b05c441": {
           "type": "collection",
-          "disabled": true,
           "settings": {
-            "feature_collection": "teacher-things",
+            "feature_collection": "tiny-humans",
             "title": "",
             "button_label": "View products"
           }
