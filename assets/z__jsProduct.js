@@ -6769,7 +6769,7 @@ class Product {
           $thumbnailProductGallery.flickity({
             cellAlign: 'center',
             contain: true,
-            groupCells: '80%',
+            groupCells: '',
             imagesLoaded: true,
             pageDots: false,
             prevNextButtons: false,
@@ -6788,7 +6788,7 @@ class Product {
         $thumbnailProductGallery.flickity({
           cellAlign: 'center',
           contain: true,
-          groupCells: '80%',
+          groupCells: '%',
           imagesLoaded: true,
           pageDots: false,
           prevNextButtons: false,
