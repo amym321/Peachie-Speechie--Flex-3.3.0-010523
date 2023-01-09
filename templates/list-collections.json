@@ -1727,6 +1727,14 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "254012ef-f796-4844-9f89-4d4fd7585e5f": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "slp-2be",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -1738,7 +1746,8 @@
         "6ffc2693-0bf1-4f90-805d-519a7db5e118",
         "a14cc71a-4d72-42af-83d1-e5fdbc62ee6b",
         "a97d7cb1-6bfe-4f8e-8096-a34717655fb4",
-        "f5cac09e-a023-4ad3-be1c-68a9c0fa53a9"
+        "f5cac09e-a023-4ad3-be1c-68a9c0fa53a9",
+        "254012ef-f796-4844-9f89-4d4fd7585e5f"
       ],
       "settings": {
         "collections_per_row": 5,
@@ -2083,6 +2092,14 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "673dca0c-1f58-4c65-a1da-a25a25ba1c15": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "ice-blue-slp",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -2100,7 +2117,8 @@
         "3d912950-20cc-4ee5-8ac8-e020bd9b607f",
         "efec94ca-411a-46ce-b3b5-291dd1dc3441",
         "0da272be-b77b-4da5-bf5a-18396b41865a",
-        "f79a617b-64b8-498d-9a03-470447d4eca5"
+        "f79a617b-64b8-498d-9a03-470447d4eca5",
+        "673dca0c-1f58-4c65-a1da-a25a25ba1c15"
       ],
       "settings": {
         "collections_per_row": 5,
