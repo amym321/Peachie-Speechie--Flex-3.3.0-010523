@@ -1142,9 +1142,8 @@
         },
         "ee91ae04-13ac-4aeb-a466-53fd022bbc8d": {
           "type": "collection",
-          "disabled": true,
           "settings": {
-            "feature_collection": "",
+            "feature_collection": "speech-squad",
             "title": "",
             "button_label": "View products"
           }
@@ -2004,14 +2003,6 @@
             "button_label": "View products"
           }
         },
-        "c5e18f39-93c0-4eb8-8618-4e152f783060": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "nyc-slp",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
         "4218f926-2c2d-4ea4-bc08-7fae2f929039": {
           "type": "collection",
           "settings": {
@@ -2056,6 +2047,14 @@
           "type": "collection",
           "settings": {
             "feature_collection": "wisconsin-slp",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "c5e18f39-93c0-4eb8-8618-4e152f783060": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "nyc-slp",
             "title": "",
             "button_label": "View products"
           }
@@ -2118,13 +2117,13 @@
       "block_order": [
         "9e2fb0fe-01d0-4d74-9224-a9e755c80628",
         "924206f9-9811-4c79-a0a2-e78cf8faa192",
-        "c5e18f39-93c0-4eb8-8618-4e152f783060",
         "4218f926-2c2d-4ea4-bc08-7fae2f929039",
         "0bad9b85-277d-4782-9eca-7bf73b29cb7a",
         "da62b89c-985f-45bb-a951-3d167742a450",
         "778fdb1d-401e-48ae-a390-8e66dd185d0c",
         "3e295511-bc55-4829-996a-432a7bae41a6",
         "60ab6c3e-f0e2-4a3d-a07a-becf5f70d061",
+        "c5e18f39-93c0-4eb8-8618-4e152f783060",
         "fdc24146-53d1-43da-854a-a8757889bc70",
         "13ee81ec-b5df-45f8-8399-f199b70452b3",
         "494766e7-23c7-4932-ad0b-7e80d1c36e80",
