@@ -866,7 +866,7 @@
         "a699963b-be54-4774-88d8-07a2907965b9": {
           "type": "collection",
           "settings": {
-            "feature_collection": "ccc-slp-banner",
+            "feature_collection": "speech-life-stuff",
             "title": "",
             "button_label": "View products"
           }
@@ -1300,6 +1300,14 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "9b74ccb6-77c3-4cfb-b20b-7392581e2ee9": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -1315,7 +1323,8 @@
         "fd35f7ab-2b53-4b17-96d7-c23e2c637c9e",
         "ad66ff1a-8aae-48ff-9188-b1180ec5ad58",
         "1f372e80-eb15-43a5-a971-9dec2a354095",
-        "5cecb5f0-f75b-449a-be77-75f77a6ecaca"
+        "5cecb5f0-f75b-449a-be77-75f77a6ecaca",
+        "9b74ccb6-77c3-4cfb-b20b-7392581e2ee9"
       ],
       "settings": {
         "collections_per_row": 5,
