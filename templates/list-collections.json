@@ -725,7 +725,7 @@
         "e0007e83-2d67-4663-8649-43c4a365bc12": {
           "type": "collection",
           "settings": {
-            "feature_collection": "speech-nerd",
+            "feature_collection": "i-scream-for-speech",
             "title": "",
             "button_label": "View products"
           }
@@ -1141,6 +1141,14 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "ee91ae04-13ac-4aeb-a466-53fd022bbc8d": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -1155,7 +1163,8 @@
         "17398894-7e89-438c-9303-9bc87394e732",
         "cafcbdda-9b10-4a1d-9e7e-8531a8243366",
         "6aca5a13-6733-424a-9b4d-4a281f6b35fb",
-        "9c4785a1-a202-4241-b6f8-f7b9d14b8282"
+        "9c4785a1-a202-4241-b6f8-f7b9d14b8282",
+        "ee91ae04-13ac-4aeb-a466-53fd022bbc8d"
       ],
       "settings": {
         "collections_per_row": 5,
@@ -1430,6 +1439,14 @@
             "button_label": "View products"
           }
         },
+        "6d264318-d06d-446b-833d-02eb293154b8": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "speech-nerd",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "bb9b4f7d-1a6b-4a81-a73d-250122e82b62": {
           "type": "collection",
           "settings": {
@@ -1533,14 +1550,6 @@
             "title": "",
             "button_label": "View products"
           }
-        },
-        "6d264318-d06d-446b-833d-02eb293154b8": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "slp-hands",
-            "title": "",
-            "button_label": "View products"
-          }
         }
       },
       "block_order": [
@@ -1550,6 +1559,7 @@
         "fc44ae38-5e42-4043-b090-07f7c9dd6509",
         "14fd9b06-f0fa-450d-96a2-341716c6d243",
         "ba46274c-09ca-45b8-8a39-53ecd04217c8",
+        "6d264318-d06d-446b-833d-02eb293154b8",
         "bb9b4f7d-1a6b-4a81-a73d-250122e82b62",
         "6108c9cb-4c25-4fef-91e2-157e106b89d6",
         "015e82f1-d878-41bd-bbd5-35689f7af97a",
@@ -1562,8 +1572,7 @@
         "c33d5b7e-4471-48cd-a715-383a87099c45",
         "15cdeb88-e290-41c6-b620-14fcac973682",
         "3aa86de1-17cc-4fc3-9cf6-a4eb05c38367",
-        "6d5f9fcb-a018-42bd-85dd-ba27486ee78e",
-        "6d264318-d06d-446b-833d-02eb293154b8"
+        "6d5f9fcb-a018-42bd-85dd-ba27486ee78e"
       ],
       "settings": {
         "collections_per_row": 5,
