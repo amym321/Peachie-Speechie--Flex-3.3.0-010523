@@ -1294,9 +1294,8 @@
         },
         "ad66ff1a-8aae-48ff-9188-b1180ec5ad58": {
           "type": "collection",
-          "disabled": true,
           "settings": {
-            "feature_collection": "everyone-deserves-a-voice",
+            "feature_collection": "peace-love-speech",
             "title": "",
             "button_label": "View products"
           }
