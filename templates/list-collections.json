@@ -1666,7 +1666,23 @@
         "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-2": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
+            "feature_collection": "speech-path-lines",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "56b72429-445e-471c-a884-c0f95eff1274": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "communicate-arch",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "6ffc2693-0bf1-4f90-805d-519a7db5e118": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "passthrough-slp",
             "title": "",
             "button_label": "View products"
           }
@@ -1675,7 +1691,9 @@
       "block_order": [
         "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-0",
         "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-1",
-        "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-2"
+        "template--14604693340257__27dc8ac5-79d9-4c4a-8aaf-7fc5adb46e01-1673242224abf9bf89-2",
+        "56b72429-445e-471c-a884-c0f95eff1274",
+        "6ffc2693-0bf1-4f90-805d-519a7db5e118"
       ],
       "settings": {
         "collections_per_row": 5,
