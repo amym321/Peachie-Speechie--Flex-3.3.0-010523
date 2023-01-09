@@ -162,8 +162,8 @@
         "show_border": false,
         "width": "standard",
         "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
+        "padding_top": 0,
+        "padding_bottom": 45,
         "animation": "none",
         "css_class": "",
         "custom_css": "h3 {\n  color: #000000;\n  background-color: #F6F5F0; \n  text-color: black;\n  padding-top: 7px;\n  padding-right: 15px;\n  padding-bottom: 10px;\n  padding-left: 15px;\n  border-radius: 0px;\n  font-size: 15px;\n  font-weight: 400;\n  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);\n}\nh3 {\n  position: absolute;\n  bottom: 0%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: fit-content;\n}\nh3:hover {\n   background-color: #DFBE2A;\n   transition: all 50ms ease;\n   color: black;\n   text-decoration: underline;\n}"
