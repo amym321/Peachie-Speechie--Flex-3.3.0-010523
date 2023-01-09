@@ -6972,8 +6972,8 @@ window.PXUTheme.jsProduct = {
         $relatedSlider.flickity({
           freeScrollFriction: 0.075, // friction when free-scrolling
           friction: 0.28, // speed and motion of the slider.
-          // resize: true, //snaps slider into place
-          resize: false,
+          resize: true, //snaps slider into place
+          //resize: false,
           selectedAttraction: 0.025, //speed and motion of the slider.
           //wrapAround: true,
           contain: false,
