@@ -2198,7 +2198,7 @@ Flickity.defaults = {
   namespaceJQueryEvents: true,
   // initialIndex: 0,
   percentPosition: true,
-  resize: ,
+  resize: true,
   selectedAttraction: 0.025,
   setGallerySize: true,
   // watchCSS: false,
