@@ -1991,7 +1991,7 @@
         "9e2fb0fe-01d0-4d74-9224-a9e755c80628": {
           "type": "collection",
           "settings": {
-            "feature_collection": "speech-elf",
+            "feature_collection": "taxas-slp",
             "title": "",
             "button_label": "View products"
           }
@@ -1999,7 +1999,7 @@
         "924206f9-9811-4c79-a0a2-e78cf8faa192": {
           "type": "collection",
           "settings": {
-            "feature_collection": "ugly-christmas-sweater",
+            "feature_collection": "georgia-slp",
             "title": "",
             "button_label": "View products"
           }
@@ -2007,7 +2007,7 @@
         "c5e18f39-93c0-4eb8-8618-4e152f783060": {
           "type": "collection",
           "settings": {
-            "feature_collection": "santa-s-favorite-slp",
+            "feature_collection": "nyc-slp",
             "title": "",
             "button_label": "View products"
           }
@@ -2015,7 +2015,7 @@
         "4218f926-2c2d-4ea4-bc08-7fae2f929039": {
           "type": "collection",
           "settings": {
-            "feature_collection": "merry-and-bright",
+            "feature_collection": "missouri-slp",
             "title": "",
             "button_label": "View products"
           }
@@ -2023,7 +2023,7 @@
         "0bad9b85-277d-4782-9eca-7bf73b29cb7a": {
           "type": "collection",
           "settings": {
-            "feature_collection": "christmas-lights-speech",
+            "feature_collection": "california-slp",
             "title": "",
             "button_label": "View products"
           }
