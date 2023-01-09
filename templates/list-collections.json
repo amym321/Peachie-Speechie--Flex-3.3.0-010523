@@ -1736,7 +1736,7 @@
         "a4d6cc3f-58cb-42c4-a6ef-eac7fbd7d39d": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
+            "feature_collection": "meow-speech",
             "title": "",
             "button_label": "View products"
           }
