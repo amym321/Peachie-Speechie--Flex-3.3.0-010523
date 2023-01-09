@@ -136,9 +136,13 @@
         {% endif %}
       {% endfor %}
     {% endif %}
-    <div class="recommendations-section-container {% if products_length <= 2 %}hide {% endif %}">
-      {% if products_length > 2 and products_total_count > 2 %} {{ product_collections_markup }} {% endif %}
-    </div>
+
+    {% if products_length != empty and products_total_count != empty %}
+      <div class="recommendations-section-container {% if products_length <= 2 %}hide {% endif %}">
+        {% if products_length > 2 and products_total_count > 2 %} {{ product_collections_markup }} {% endif %}
+      </div>
+    {% endif %}
+
   </div>
 </section>
 
