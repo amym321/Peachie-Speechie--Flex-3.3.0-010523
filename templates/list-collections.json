@@ -285,6 +285,14 @@
             "title": "",
             "button_label": "View products"
           }
+        },
+        "0858b2f7-0db5-4cd5-a7fe-76a73c51a692": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "slp-lines",
+            "title": "",
+            "button_label": "View products"
+          }
         }
       },
       "block_order": [
@@ -305,7 +313,8 @@
         "34c0bd43-59d2-4144-8f49-b1c16e8db830",
         "019b2ca7-723f-4397-a1ce-79911724ea62",
         "f18ac0e7-558d-44c2-a033-bc957e168184",
-        "894e64e0-ec9f-456a-870f-e56c309c4bd0"
+        "894e64e0-ec9f-456a-870f-e56c309c4bd0",
+        "0858b2f7-0db5-4cd5-a7fe-76a73c51a692"
       ],
       "settings": {
         "collections_per_row": 5,
@@ -1911,6 +1920,7 @@
         },
         "5368aab0-cd67-4b13-8924-1fae89325ccb": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "talking-in-a-winter-wonderland",
             "title": "",
