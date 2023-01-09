@@ -1286,9 +1286,8 @@
         },
         "fd35f7ab-2b53-4b17-96d7-c23e2c637c9e": {
           "type": "collection",
-          "disabled": true,
           "settings": {
-            "feature_collection": "every-voice-matters",
+            "feature_collection": "never-stressed",
             "title": "",
             "button_label": "View products"
           }
