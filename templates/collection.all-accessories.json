@@ -33,6 +33,69 @@
         "custom_css": ""
       }
     },
+    "8834fe6a-2d1c-496d-b213-71ccef2bbc3f": {
+      "type": "index__collection-list",
+      "blocks": {
+        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "bags",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-11-09_at_8.47.46_PM.png",
+            "title": "shop purses & wallets",
+            "button_label": ""
+          }
+        },
+        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": ""
+          }
+        },
+        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": ""
+          }
+        },
+        "62fa7d0c-6f61-46ab-a91f-f007836a6928": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-0",
+        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-1",
+        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-2",
+        "62fa7d0c-6f61-46ab-a91f-f007836a6928"
+      ],
+      "settings": {
+        "collections_per_row": 4,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": true,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 0,
+        "overlay_text": "#FFFFFF",
+        "collection_title_below_image": false,
+        "hide_title_cta": false,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "span.title{\n  color: #000000;\n  background-color: #F6F5F0; \n  text-color: black;\n  padding-top: 7px;\n  padding-right: 15px;\n  padding-bottom: 10px;\n  padding-left: 15px;\n  border-radius: 0px;\n  font-size: 15px;\n  font-weight: 400;\n  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);\n}\nspan.title {\n  position: absolute;\n  bottom: 0%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: fit-content;\n}\nspan.title:hover {\n   background-color: #DFBE2A;\n   transition: all 50ms ease;\n   color: black;\n   text-decoration: underline;\n}"
+      }
+    },
     "main": {
       "type": "collection__main",
       "settings": {
@@ -58,65 +121,12 @@
         "css_class": "",
         "custom_css": ""
       }
-    },
-    "8834fe6a-2d1c-496d-b213-71ccef2bbc3f": {
-      "type": "index__collection-list",
-      "blocks": {
-        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-0": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-1": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-2": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "",
-            "title": "",
-            "button_label": "View products"
-          }
-        }
-      },
-      "block_order": [
-        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-0",
-        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-1",
-        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-2"
-      ],
-      "settings": {
-        "collections_per_row": 3,
-        "align_height": false,
-        "collection_height": 400,
-        "enable_zoom": true,
-        "button_style": "button--secondary",
-        "overlay_background": "#939393",
-        "overlay_background_opacity": 70,
-        "overlay_text": "#FFFFFF",
-        "collection_title_below_image": false,
-        "hide_title_cta": false,
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": "span.title{\n  color: #000000;\n  background-color: #F6F5F0; \n  text-color: black;\n  padding-top: 7px;\n  padding-right: 15px;\n  padding-bottom: 10px;\n  padding-left: 15px;\n  border-radius: 0px;\n  font-size: 15px;\n  font-weight: 400;\n  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);\nspan.title {\n  position: absolute;\n  bottom: 0%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: fit-content;\n}\nspan.title:hover {\n   background-color: #DFBE2A;\n   transition: all 50ms ease;\n   color: black;\n   text-decoration: underline;\n}"
-      }
     }
   },
   "order": [
     "banner",
     "subcollections",
-    "main",
-    "8834fe6a-2d1c-496d-b213-71ccef2bbc3f"
+    "8834fe6a-2d1c-496d-b213-71ccef2bbc3f",
+    "main"
   ]
 }
