@@ -2,23 +2,121 @@
   "sections": {
     "banner": {
       "type": "fallback_image_banner",
+      "disabled": true,
       "settings": {
+        "image_darken": true,
+        "width": "wide",
+        "banner_height": "medium",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
       }
     },
     "subcollections": {
       "type": "subcollections",
+      "disabled": true,
       "settings": {
+        "collections_per_row": 4,
+        "mobile_collections_per_row": "2",
+        "align_height": false,
+        "collection_height": 400,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 70,
+        "overlay_text": "#FFFFFF",
+        "collection_title_below_image": false,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
       }
     },
     "main": {
       "type": "collection__main",
       "settings": {
+        "collection_breadcrumb": true,
+        "collection_tags": false,
+        "collection_sort": true,
+        "show_sidebar": false,
+        "sidebar_position": "left",
+        "show_promo_banner": false,
+        "image_darken": false,
+        "promo_title": "Special sale on now!",
+        "promo_text": "<p>Description of promotion with lots of details.<\/p>",
+        "banner_height": "medium",
+        "align_height": false,
+        "collection_height": 200,
+        "products_per_row": 3,
+        "mobile_products_per_row": "1",
+        "pagination_limit": 48,
+        "pagination_type": "basic_pagination",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8834fe6a-2d1c-496d-b213-71ccef2bbc3f": {
+      "type": "index__collection-list",
+      "blocks": {
+        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        }
+      },
+      "block_order": [
+        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-0",
+        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-1",
+        "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-2"
+      ],
+      "settings": {
+        "collections_per_row": 3,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": true,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 70,
+        "overlay_text": "#FFFFFF",
+        "collection_title_below_image": false,
+        "hide_title_cta": false,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "span.title{\n  color: #000000;\n  background-color: #F6F5F0; \n  text-color: black;\n  padding-top: 7px;\n  padding-right: 15px;\n  padding-bottom: 10px;\n  padding-left: 15px;\n  border-radius: 0px;\n  font-size: 15px;\n  font-weight: 400;\n  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);\nspan.title {\n  position: absolute;\n  bottom: 0%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: fit-content;\n}\nspan.title:hover {\n   background-color: #DFBE2A;\n   transition: all 50ms ease;\n   color: black;\n   text-decoration: underline;\n}"
       }
     }
   },
   "order": [
     "banner",
     "subcollections",
-    "main"
+    "main",
+    "8834fe6a-2d1c-496d-b213-71ccef2bbc3f"
   ]
 }
