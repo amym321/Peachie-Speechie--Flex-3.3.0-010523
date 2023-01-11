@@ -48,16 +48,16 @@
         "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-1": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
-            "title": "",
+            "feature_collection": "hats",
+            "title": "caps & beanies",
             "button_label": ""
           }
         },
         "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-2": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
-            "title": "",
+            "feature_collection": "tote-bags",
+            "title": "tote bags",
             "button_label": ""
           }
         },
