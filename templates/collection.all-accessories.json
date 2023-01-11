@@ -90,7 +90,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Screen_Shot_2023-01-10_at_9.50.53_PM.png",
-            "link": "",
+            "link": "shopify:\/\/collections\/stationary",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 0,
             "overlay_text": "#000000",
@@ -102,13 +102,13 @@
         "bdc1cf34-6895-411b-9dc9-6e3a6f6157ab": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Friends-Speech-hat.jpg",
-            "link": "shopify:\/\/collections\/hats",
+            "image": "shopify:\/\/shop_images\/Donut-Fear-SLP-Mug.png",
+            "link": "shopify:\/\/collections\/all-drinkware",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "#000000",
             "icon_label": "",
-            "title": "shop caps & beanies",
+            "title": "shop drinkware",
             "text": ""
           }
         }
