@@ -33,6 +33,56 @@
         "custom_css": ""
       }
     },
+    "82d1622b-b4c4-41ed-8991-f7c9ea1d2870": {
+      "type": "index__featured-promotions",
+      "blocks": {
+        "template--14606542667873__82d1622b-b4c4-41ed-8991-f7c9ea1d2870-1673402566655d05d5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-11-09_at_8.47.46_PM.png",
+            "link": "shopify:\/\/collections\/bags-wallets",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 0,
+            "overlay_text": "#000000",
+            "icon_label": "",
+            "title": "shop bags & wallets",
+            "text": ""
+          }
+        },
+        "template--14606542667873__82d1622b-b4c4-41ed-8991-f7c9ea1d2870-1673402566655d05d5-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Friends-Speech-hat.jpg",
+            "link": "shopify:\/\/collections\/hats",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "#000000",
+            "icon_label": "",
+            "title": "shop caps & beanies",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14606542667873__82d1622b-b4c4-41ed-8991-f7c9ea1d2870-1673402566655d05d5-0",
+        "template--14606542667873__82d1622b-b4c4-41ed-8991-f7c9ea1d2870-1673402566655d05d5-1"
+      ],
+      "settings": {
+        "border_radius": 0,
+        "crop_images": true,
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 0,
+        "overlay_text": "#FFFFFF",
+        "show_border": false,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "h3 {\n  background-color: #F6F5F0; \n  padding-top: 7px;\n  padding-right: 15px;\n  padding-bottom: 10px;\n  padding-left: 15px;\n  border-radius: 0px;\n  font-size: 14px;\n  font-weight: 400;\n  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);\n}\nh3 {\n  position: absolute;\n  bottom: 0%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: fit-content;\n}\nh3:hover {\n   background-color: #DFBE2A;\n   transition: all 50ms ease;\n   color: black;\n   text-decoration: underline;\n}"
+      }
+    },
     "8834fe6a-2d1c-496d-b213-71ccef2bbc3f": {
       "type": "index__collection-list",
       "blocks": {
@@ -41,7 +91,7 @@
           "settings": {
             "feature_collection": "bags",
             "image": "shopify:\/\/shop_images\/Screen_Shot_2022-11-09_at_8.47.46_PM.png",
-            "title": "purses & wallets",
+            "title": "bags & wallets",
             "button_label": ""
           }
         },
@@ -57,20 +107,21 @@
           "type": "collection",
           "settings": {
             "feature_collection": "tote-bags",
-            "title": "tote bags",
+            "title": "bags",
             "button_label": ""
           }
         },
         "62fa7d0c-6f61-46ab-a91f-f007836a6928": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
-            "title": "",
+            "feature_collection": "all-drinkware",
+            "title": "drinkware",
             "button_label": ""
           }
         },
         "a62f879b-1b73-4328-96e8-4e2c78feadca": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "",
             "title": "shop",
@@ -79,6 +130,7 @@
         },
         "73e94033-3bb6-41a2-8f5a-46d77f69f6dd": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "",
             "title": "shop",
@@ -87,6 +139,7 @@
         },
         "e09c866d-9e01-4d97-92f1-763c0cc57aa7": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "",
             "title": "shop",
@@ -95,6 +148,7 @@
         },
         "13584e3a-765a-4b1a-a053-99fa3ca4c6d8": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "",
             "title": "shop",
@@ -113,7 +167,7 @@
         "13584e3a-765a-4b1a-a053-99fa3ca4c6d8"
       ],
       "settings": {
-        "collections_per_row": 4,
+        "collections_per_row": 2,
         "align_height": false,
         "collection_height": 400,
         "enable_zoom": false,
@@ -162,6 +216,7 @@
   "order": [
     "banner",
     "subcollections",
+    "82d1622b-b4c4-41ed-8991-f7c9ea1d2870",
     "8834fe6a-2d1c-496d-b213-71ccef2bbc3f",
     "main"
   ]
