@@ -83,8 +83,59 @@
         "custom_css": "h3 {\n  background-color: #F6F5F0; \n  padding-top: 7px;\n  padding-right: 15px;\n  padding-bottom: 10px;\n  padding-left: 15px;\n  border-radius: 0px;\n  font-size: 14px;\n  font-weight: 400;\n  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);\n}\nh3 {\n  position: absolute;\n  bottom: 0%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: fit-content;\n}\nh3:hover {\n   background-color: #DFBE2A;\n   transition: all 50ms ease;\n   color: black;\n   text-decoration: underline;\n}"
       }
     },
+    "433d34c9-1afc-42da-b39c-9876ac3be1ad": {
+      "type": "index__featured-promotions",
+      "blocks": {
+        "3974968d-91cd-4c11-9aa7-52a8f179b8f9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-01-10_at_9.50.53_PM.png",
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 0,
+            "overlay_text": "#000000",
+            "icon_label": "",
+            "title": "shop stationary",
+            "text": ""
+          }
+        },
+        "bdc1cf34-6895-411b-9dc9-6e3a6f6157ab": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Friends-Speech-hat.jpg",
+            "link": "shopify:\/\/collections\/hats",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "#000000",
+            "icon_label": "",
+            "title": "shop caps & beanies",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "3974968d-91cd-4c11-9aa7-52a8f179b8f9",
+        "bdc1cf34-6895-411b-9dc9-6e3a6f6157ab"
+      ],
+      "settings": {
+        "border_radius": 0,
+        "crop_images": true,
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 0,
+        "overlay_text": "#FFFFFF",
+        "show_border": false,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "h3 {\n  background-color: #F6F5F0; \n  padding-top: 7px;\n  padding-right: 15px;\n  padding-bottom: 10px;\n  padding-left: 15px;\n  border-radius: 0px;\n  font-size: 14px;\n  font-weight: 400;\n  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);\n}\nh3 {\n  position: absolute;\n  bottom: 0%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: fit-content;\n}\nh3:hover {\n   background-color: #DFBE2A;\n   transition: all 50ms ease;\n   color: black;\n   text-decoration: underline;\n}"
+      }
+    },
     "8834fe6a-2d1c-496d-b213-71ccef2bbc3f": {
       "type": "index__collection-list",
+      "disabled": true,
       "blocks": {
         "template--14606542667873__8834fe6a-2d1c-496d-b213-71ccef2bbc3f-16733801943a5a31c6-0": {
           "type": "collection",
@@ -217,6 +268,7 @@
     "banner",
     "subcollections",
     "82d1622b-b4c4-41ed-8991-f7c9ea1d2870",
+    "433d34c9-1afc-42da-b39c-9876ac3be1ad",
     "8834fe6a-2d1c-496d-b213-71ccef2bbc3f",
     "main"
   ]
