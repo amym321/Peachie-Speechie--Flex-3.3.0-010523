@@ -439,14 +439,6 @@
             "button_label": "View products"
           }
         },
-        "1663706923f00f1905-1": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "do-what-you-love-what-you-do-heart",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
         "1663706923f00f1905-2": {
           "type": "collection",
           "settings": {
@@ -455,10 +447,26 @@
             "button_label": "View products"
           }
         },
+        "1663706923f00f1905-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "do-what-you-love-what-you-do-heart",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "25bf5b2b-ba0b-4da6-adca-009baf332ad4": {
           "type": "collection",
           "settings": {
             "feature_collection": "speech-heart",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "1817cd32-c562-4c42-bd78-975333e375a3": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "my-heart",
             "title": "",
             "button_label": "View products"
           }
@@ -486,25 +494,17 @@
             "title": "",
             "button_label": "View products"
           }
-        },
-        "1817cd32-c562-4c42-bd78-975333e375a3": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "my-heart",
-            "title": "",
-            "button_label": "View products"
-          }
         }
       },
       "block_order": [
         "1663706923f00f1905-0",
-        "1663706923f00f1905-1",
         "1663706923f00f1905-2",
+        "1663706923f00f1905-1",
         "25bf5b2b-ba0b-4da6-adca-009baf332ad4",
+        "1817cd32-c562-4c42-bd78-975333e375a3",
         "1eb708c1-d5c5-4862-b97b-b59da1fff1e2",
         "56ec0ca3-3c7f-4947-97a6-95a115eab520",
-        "f7bdfe73-04e8-4723-80c7-7173635f4b61",
-        "1817cd32-c562-4c42-bd78-975333e375a3"
+        "f7bdfe73-04e8-4723-80c7-7173635f4b61"
       ],
       "settings": {
         "collections_per_row": 4,
