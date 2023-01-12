@@ -137,6 +137,14 @@
             "button_label": "View products"
           }
         },
+        "d9e8a0ec-4a3f-4298-88bb-bdbc18166c10": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "peace-love-speech-retro-characters",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
         "template--14580755857505__c53dead8-43ed-447a-b5aa-58638963687e-1668594634bf77c618-2": {
           "type": "collection",
           "settings": {
@@ -149,14 +157,6 @@
           "type": "collection",
           "settings": {
             "feature_collection": "speech-heart",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
-        "ce09f90c-4ba0-4a6e-bcb5-d4e09c3da75f": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "do-what-you-love-what-you-do-heart",
             "title": "",
             "button_label": "View products"
           }
@@ -177,18 +177,18 @@
             "button_label": "View products"
           }
         },
-        "d9e8a0ec-4a3f-4298-88bb-bdbc18166c10": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "medical-heart",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
         "1e9fa178-4eef-4444-b0f5-46ad79692f59": {
           "type": "collection",
           "settings": {
             "feature_collection": "speech-path-lips",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "ce09f90c-4ba0-4a6e-bcb5-d4e09c3da75f": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "do-what-you-love-what-you-do-heart",
             "title": "",
             "button_label": "View products"
           }
@@ -285,13 +285,13 @@
       "block_order": [
         "template--14580755857505__c53dead8-43ed-447a-b5aa-58638963687e-1668594634bf77c618-0",
         "template--14580755857505__c53dead8-43ed-447a-b5aa-58638963687e-1668594634bf77c618-1",
+        "d9e8a0ec-4a3f-4298-88bb-bdbc18166c10",
         "template--14580755857505__c53dead8-43ed-447a-b5aa-58638963687e-1668594634bf77c618-2",
         "cb5559a9-e157-4608-9d52-556f0829477a",
-        "ce09f90c-4ba0-4a6e-bcb5-d4e09c3da75f",
         "8fe81a3e-69be-4174-b1b5-74be6159c39c",
         "495e7ff6-2171-4485-bfa8-b2a0b58ba759",
-        "d9e8a0ec-4a3f-4298-88bb-bdbc18166c10",
         "1e9fa178-4eef-4444-b0f5-46ad79692f59",
+        "ce09f90c-4ba0-4a6e-bcb5-d4e09c3da75f",
         "2fe42808-7610-42cb-909f-c37a03d8073f",
         "cc8cf462-2fb1-4e8d-ab10-8c172f5d784e",
         "7b41efbf-8f10-454a-83c2-7e085eb00474",
@@ -2355,9 +2355,9 @@
         "text_alignment": "center",
         "text_horizontal_position": "center",
         "text_vertical_position": "bottom",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_opacity": 0,
-        "border_color": "#FFFFFF",
+        "border_color": "#ffffff",
         "border_width": 0,
         "text_width": 40,
         "button_1": "",
