@@ -463,18 +463,18 @@
             "button_label": "View products"
           }
         },
-        "56ec0ca3-3c7f-4947-97a6-95a115eab520": {
-          "type": "collection",
-          "settings": {
-            "feature_collection": "speech-club",
-            "title": "",
-            "button_label": "View products"
-          }
-        },
         "1eb708c1-d5c5-4862-b97b-b59da1fff1e2": {
           "type": "collection",
           "settings": {
             "feature_collection": "speech-life-stuff",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "56ec0ca3-3c7f-4947-97a6-95a115eab520": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "peace-love-speech-retro-characters",
             "title": "",
             "button_label": "View products"
           }
@@ -501,8 +501,8 @@
         "1663706923f00f1905-1",
         "1663706923f00f1905-2",
         "25bf5b2b-ba0b-4da6-adca-009baf332ad4",
-        "56ec0ca3-3c7f-4947-97a6-95a115eab520",
         "1eb708c1-d5c5-4862-b97b-b59da1fff1e2",
+        "56ec0ca3-3c7f-4947-97a6-95a115eab520",
         "f7bdfe73-04e8-4723-80c7-7173635f4b61",
         "1817cd32-c562-4c42-bd78-975333e375a3"
       ],
@@ -813,37 +813,6 @@
         "css_class": "",
         "custom_css": ""
       }
-    },
-    "48a9cafb-34c9-4024-b2a9-e8e0cbf89193": {
-      "type": "Marquee",
-      "blocks": {
-        "c3ead3b1-a0c3-4348-a1f1-94e752958ce5": {
-          "type": "header",
-          "settings": {
-            "message": "Free US Shipping On Orders $99+",
-            "colorBackground": "#ffffff",
-            "colorText": "#000"
-          }
-        },
-        "8a070aaa-7af5-4fb2-8ad2-39cb860afa12": {
-          "type": "header",
-          "settings": {
-            "message": "Get 10% Off Regular-Priced Items In Your First Order With Code PEACHIESPEECHIE",
-            "colorBackground": "#000000",
-            "colorText": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "c3ead3b1-a0c3-4348-a1f1-94e752958ce5",
-        "8a070aaa-7af5-4fb2-8ad2-39cb860afa12"
-      ],
-      "settings": {
-        "show_marquee_bar": false,
-        "direction": "right",
-        "pause_on_hover": false,
-        "speed": "15"
-      }
     }
   },
   "order": [
@@ -868,7 +837,6 @@
     "1668045921919103f4",
     "16637234893e9f9cc7",
     "1663768807f273594f",
-    "166376903321a25946",
-    "48a9cafb-34c9-4024-b2a9-e8e0cbf89193"
+    "166376903321a25946"
   ]
 }
