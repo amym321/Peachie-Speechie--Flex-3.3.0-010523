@@ -57,7 +57,7 @@
           var rvStars = ` <span>{% render 'rating-stars', value: 2, scale_max: 5, %} </span>`
         } else if (currentObject.starRating <= 1.67 && currentObject.starRating > 0) {
           var rvStars = ` <span>{% render 'rating-stars', value: 1, scale_max: 5, %} </span>`
-        } else if (currentObject.starRating === 0) {
+        } else {
           var rvStars = `<span></span>`
         } 
 
@@ -143,7 +143,7 @@
           friction: 0.28, // speed and motion of the slider.
           //namespaceJQueryEvents: true,
           //percentPosition: true,
-          resize: true, // or snap the slider into place
+          resize: true, // cell size, snap the slider into place
           //resize: false,
           freeScroll: true,
           selectedAttraction: 0.025, //speed and motion of the slider.
