@@ -46,12 +46,12 @@
       "settings": {
         "title": "Empower yourself",
         "heading_font": "neue_haas_unica_n7",
-        "heading_color": "#FFF",
+        "heading_color": "#ffffff",
         "heading_alignment": "left",
         "heading_size": 30,
         "text": "<p>Get the world's most helpful and engaging <a href=\"https:\/\/peachiespeechie.com\/collections\/downloadable-materials\" target=\"_blank\" title=\"Speech therapy and educational materials\">materials<\/a> for speech therapy. Easily make progress on goals, in-person and remotely. Be sure to grab some useful freebies and check out our instructional <a href=\"https:\/\/peachiespeechie.com\/pages\/peachie-speechie-videos\" target=\"_blank\" title=\"Speech therapy videos\">videos<\/a> as well! <\/p>",
         "text_font": "itc_johnston_n5",
-        "text_color": "#FFF",
+        "text_color": "#ffffff",
         "text_alignment": "left",
         "text_size": 19,
         "columns": 1,
@@ -69,7 +69,7 @@
         "padding_right": 0,
         "animation": "none",
         "css_class": "",
-        "custom_css": "a:link {\ncolor: lightpink !important;\n}\na:hover {\ncolor: #DFBE2A;\n}"
+        "custom_css": "a{\ncolor: lightpink !important;\n}\na:hover {\ncolor: #DFBE2A;\n}"
       }
     },
     "9673ab6b-10ed-43d4-8d25-8fddf013f3e0": {
