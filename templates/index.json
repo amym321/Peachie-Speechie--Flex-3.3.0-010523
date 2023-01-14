@@ -399,7 +399,7 @@
         "padding_bottom": 39,
         "padding_left": 0,
         "padding_right": 0,
-        "animation": "fadeInDown",
+        "animation": "none",
         "css_class": "",
         "custom_css": ""
       }
