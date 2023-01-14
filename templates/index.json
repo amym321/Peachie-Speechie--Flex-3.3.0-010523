@@ -69,7 +69,7 @@
         "padding_right": 0,
         "animation": "none",
         "css_class": "",
-        "custom_css": "a{\ncolor: lightpink !important;\n}\na:hover {\ncolor: #DFBE2A;\n}"
+        "custom_css": "a{\ncolor: lightpink !important;\n}\na:hover {\ncolor: #DFBE2A;\ntext-decoration: underline;\n}"
       }
     },
     "9673ab6b-10ed-43d4-8d25-8fddf013f3e0": {
