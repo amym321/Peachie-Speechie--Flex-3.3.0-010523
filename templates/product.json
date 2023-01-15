@@ -449,7 +449,7 @@
         "mobile_text_below_image": true,
         "width": "standard",
         "padding_top": 40,
-        "padding_bottom": 0,
+        "padding_bottom": 45,
         "animation": "none",
         "css_class": "",
         "custom_css": ""
