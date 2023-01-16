@@ -31,7 +31,7 @@
     "42b226d4-d157-416f-94f5-a746691d1153": {
       "type": "index__heading",
       "settings": {
-        "preheading": "<p>Enjoy these videos for articulation, fluency and language skills. Share this page with SLPs, students, and parents!<\/p>",
+        "preheading": "",
         "title": "Peachie Speechie Articulation Videos",
         "subheading": "<p>Also watch <a href=\"https:\/\/peachiespeechie.com\/pages\/peachie-speechie-fluency-videos\" target=\"_blank\" title=\"https:\/\/peachiespeechie.com\/pages\/peachie-speechie-fluency-videos\">Fluency Videos<\/a> & <a href=\"https:\/\/peachiespeechie.com\/pages\/peachie-speechie-language-skills-videos\" target=\"_blank\" title=\"https:\/\/peachiespeechie.com\/pages\/peachie-speechie-language-skills-videos\">Language Skills Videos<\/a><\/p>",
         "preheading_color": "rgba(0,0,0,0)",
@@ -47,6 +47,68 @@
         "padding_bottom": 20,
         "padding_left": 0,
         "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ace91ee3-541a-419a-9067-ebcf573e7804": {
+      "type": "index__featured-promotions",
+      "blocks": {
+        "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/R-Words-Video-Cover.jpg",
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "",
+            "title": "R Sound Videos",
+            "text": ""
+          }
+        },
+        "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "bag",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        },
+        "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-2": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "tag",
+            "title": "Special deal",
+            "text": "<p>Promotion description details.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-0",
+        "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-1",
+        "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-2"
+      ],
+      "settings": {
+        "border_radius": 0,
+        "crop_images": true,
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 0,
+        "overlay_text": "#FFFFFF",
+        "show_border": false,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
         "animation": "none",
         "css_class": "",
         "custom_css": ""
@@ -68,9 +130,9 @@
             "subheading_color": "#000000",
             "text_alignment": "center",
             "text_horizontal_position": "center",
-            "background_color": "#FFFFFF",
+            "background_color": "#ffffff",
             "background_opacity": 77,
-            "border_color": "#FFFFFF",
+            "border_color": "#ffffff",
             "border_width": 0,
             "text_width": 40,
             "button_1": "",
@@ -98,9 +160,9 @@
             "subheading_color": "#000000",
             "text_alignment": "center",
             "text_horizontal_position": "center",
-            "background_color": "#FFFFFF",
+            "background_color": "#ffffff",
             "background_opacity": 77,
-            "border_color": "#FFFFFF",
+            "border_color": "#ffffff",
             "border_width": 0,
             "text_width": 40,
             "button_1": "Button 1",
@@ -128,10 +190,34 @@
         "mobile_text_below_image": false,
         "width": "standard",
         "padding_top": 20,
-        "padding_bottom": 35,
+        "padding_bottom": 20,
         "animation": "none",
         "css_class": "",
-        "custom_css": "{width:900px;}"
+        "custom_css": "{width:1190px;}"
+      }
+    },
+    "aca6b10c-fe1a-46a8-be2d-37f7600cc67e": {
+      "type": "index__heading",
+      "settings": {
+        "preheading": "",
+        "title": "",
+        "subheading": "<p>Enjoy these videos for articulation, fluency and language skills. Share this page with SLPs, students, and parents!<\/p>",
+        "preheading_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "subheading_color": "rgba(0,0,0,0)",
+        "background": "#f6f5f0",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "heading_alignment": "center",
+        "vertical_spacing": "medium",
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
       }
     },
     "2a339dcb-b03a-4793-b835-e1a319f410dc": {
@@ -269,7 +355,9 @@
     "banner",
     "main",
     "42b226d4-d157-416f-94f5-a746691d1153",
+    "ace91ee3-541a-419a-9067-ebcf573e7804",
     "7723dbff-e1ff-4f53-8044-89c060b0a74d",
+    "aca6b10c-fe1a-46a8-be2d-37f7600cc67e",
     "2a339dcb-b03a-4793-b835-e1a319f410dc",
     "a46e21e3-ad42-407a-b909-36fd03141225",
     "2f7cf16c-64dd-45b1-bbac-de8959a25639",
