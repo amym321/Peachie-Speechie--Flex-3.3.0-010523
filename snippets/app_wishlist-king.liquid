@@ -281,24 +281,24 @@
   // Wishlist page
   WishlistKing.observe(
     {
-      selector: ".page__content",
+      selector: ".page__content .one-whole",
       template: "page",
       handle: WishlistKing.toolkit.settings.wishlistPageHandle,
     },
     (target) => {
-      target.insertAfter(WishlistKing.createComponent("wishlist-page"));
+      target.append(WishlistKing.createComponent("wishlist-page"));
     }
   );
 
   // Shared wishlist page
   WishlistKing.observe(
     {
-      selector: ".page__content",
+      selector: ".page__content .one-whole",
       template: "page",
       handle: WishlistKing.toolkit.settings.sharedWishlistPageHandle,
     },
     (target) => {
-      target.insertAfter(WishlistKing.createComponent("wishlist-page-shared"));
+      target.append(WishlistKing.createComponent("wishlist-page-shared"));
     }
   );
 </script>
