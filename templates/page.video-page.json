@@ -71,25 +71,26 @@
         "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-1": {
           "type": "image",
           "settings": {
-            "link": "",
+            "image": "shopify:\/\/shop_images\/pull-outs-and-cancellations-video-cover.jpg",
+            "link": "https:\/\/peachiespeechie.com\/pages\/peachie-speechie-fluency-videos",
             "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 70,
+            "overlay_background_opacity": 0,
             "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "bag",
-            "title": "Special deal",
-            "text": "<p>Promotion description details.<\/p>"
+            "icon_label": "",
+            "title": "Fluency Videos",
+            "text": ""
           }
         },
         "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-2": {
           "type": "image",
           "settings": {
-            "link": "",
+            "link": "https:\/\/peachiespeechie.com\/pages\/peachie-speechie-language-skills-videos",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "tag",
-            "title": "Special deal",
-            "text": "<p>Promotion description details.<\/p>"
+            "icon_label": "",
+            "title": "Language Skills Videos",
+            "text": ""
           }
         }
       },
@@ -103,7 +104,7 @@
         "crop_images": true,
         "overlay_background": "#939393",
         "overlay_background_opacity": 0,
-        "overlay_text": "#FFFFFF",
+        "overlay_text": "#000000",
         "show_border": false,
         "width": "standard",
         "show_gutter": true,
@@ -111,7 +112,7 @@
         "padding_bottom": 20,
         "animation": "none",
         "css_class": "",
-        "custom_css": ""
+        "custom_css": "h3 {\n  color: #000000;\n  background-color: #F6F5F0; \n  text-color: black;\n  padding-top: 7px;\n  padding-right: 15px;\n  padding-bottom: 10px;\n  padding-left: 15px;\n  border-radius: 0px;\n  font-size: 15px;\n  font-weight: 400;\n  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);\n}\nh3 {\n  position: absolute;\n  bottom: 0%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: fit-content;\n}\nh3:hover {\n   background-color: #DFBE2A;\n   transition: all 50ms ease;\n   color: black;\n   text-decoration: underline;\n}"
       }
     },
     "7723dbff-e1ff-4f53-8044-89c060b0a74d": {
