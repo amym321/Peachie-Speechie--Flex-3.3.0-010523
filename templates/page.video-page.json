@@ -128,7 +128,7 @@
         "mobile_text_below_image": false,
         "width": "standard",
         "padding_top": 20,
-        "padding_bottom": 20,
+        "padding_bottom": 35,
         "animation": "none",
         "css_class": "",
         "custom_css": "{width:900px;}"
