@@ -28,6 +28,30 @@
         "custom_css": ""
       }
     },
+    "42b226d4-d157-416f-94f5-a746691d1153": {
+      "type": "index__heading",
+      "settings": {
+        "preheading": "<p>Enjoy these videos for articulation, fluency and language skills. Share this page with SLPs, students, and parents!<\/p>",
+        "title": "Peachie Speechie Articulation Videos",
+        "subheading": "<p>Also watch <a href=\"https:\/\/peachiespeechie.com\/pages\/peachie-speechie-fluency-videos\" target=\"_blank\" title=\"https:\/\/peachiespeechie.com\/pages\/peachie-speechie-fluency-videos\">Fluency Videos<\/a> & <a href=\"https:\/\/peachiespeechie.com\/pages\/peachie-speechie-language-skills-videos\" target=\"_blank\" title=\"https:\/\/peachiespeechie.com\/pages\/peachie-speechie-language-skills-videos\">Language Skills Videos<\/a><\/p>",
+        "preheading_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "subheading_color": "rgba(0,0,0,0)",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "heading_alignment": "center",
+        "vertical_spacing": "medium",
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
     "2a339dcb-b03a-4793-b835-e1a319f410dc": {
       "type": "index__video",
       "settings": {
@@ -97,6 +121,7 @@
   "order": [
     "banner",
     "main",
+    "42b226d4-d157-416f-94f5-a746691d1153",
     "2a339dcb-b03a-4793-b835-e1a319f410dc",
     "a46e21e3-ad42-407a-b909-36fd03141225"
   ]
