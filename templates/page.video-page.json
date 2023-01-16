@@ -68,11 +68,36 @@
         "css_class": "",
         "custom_css": ".plyr--full-ui.plyr--video .plyr__control--overlaid{display:none;}\n.video__subtitle {\n  background-color: #F6F5F0; \n  padding-top: 7px;\n  padding-right: 15px;\n  padding-bottom: 10px;\n  padding-left: 15px;\n  border-radius: 0px;\n  font-size: 14px;\n  font-weight: 400;\n  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);\n}\nh3 {\n  position: absolute;\n  bottom: 0%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: fit-content;\n}\nh3:hover {\n   background-color: #DFBE2A;\n   transition: all 50ms ease;\n   color: black;\n   text-decoration: underline;\n}"
       }
+    },
+    "a46e21e3-ad42-407a-b909-36fd03141225": {
+      "type": "index__heading",
+      "settings": {
+        "preheading": "",
+        "title": "Chaining for the R Sound",
+        "subheading": "<p>Download: <a href=\"https:\/\/peachiespeechie.com\/collections\/r-sound-materials\/products\/r-sound-chaining-for-speech-therapy\" target=\"_blank\" title=\"https:\/\/peachiespeechie.com\/collections\/r-sound-materials\/products\/r-sound-chaining-for-speech-therapy\">R Sound Chaining Workbook<\/a><\/p>",
+        "preheading_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "subheading_color": "rgba(0,0,0,0)",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "heading_alignment": "center",
+        "vertical_spacing": "small",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "div.container {\nmargin-top: -30px;\n}"
+      }
     }
   },
   "order": [
     "banner",
     "main",
-    "2a339dcb-b03a-4793-b835-e1a319f410dc"
+    "2a339dcb-b03a-4793-b835-e1a319f410dc",
+    "a46e21e3-ad42-407a-b909-36fd03141225"
   ]
 }
