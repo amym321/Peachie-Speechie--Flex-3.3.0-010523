@@ -117,6 +117,7 @@
     },
     "7723dbff-e1ff-4f53-8044-89c060b0a74d": {
       "type": "index__slideshow-classic",
+      "disabled": true,
       "blocks": {
         "template--14607150252129__7723dbff-e1ff-4f53-8044-89c060b0a74d-16738493999a5da4a9-0": {
           "type": "image",
@@ -195,6 +196,55 @@
         "animation": "none",
         "css_class": "",
         "custom_css": "{width:1190px;}"
+      }
+    },
+    "5a023a80-ef66-408f-af66-83bd6babbeb0": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "template--14607150252129__5a023a80-ef66-408f-af66-83bd6babbeb0-167387437452ab89f0-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "template--14607150252129__5a023a80-ef66-408f-af66-83bd6babbeb0-167387437452ab89f0-1": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "template--14607150252129__5a023a80-ef66-408f-af66-83bd6babbeb0-167387437452ab89f0-2": {
+          "type": "text",
+          "settings": {
+            "title": "Worksheets to accompany Peachie Speechie’s FREE speech sound production videos!",
+            "heading_size": "regular",
+            "text": "<p>You already love the videos - now there is even more to love! Make your sessions even more engaging and keep little hands busy with these carefully thought out worksheets. These worksheets are for the sounds in isolation videos.<\/p>",
+            "button_label": "Download now",
+            "link": "shopify:\/\/products\/peachie-speechie-speech-sound-video-worksheets-materials-peachie-speechie",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14607150252129__5a023a80-ef66-408f-af66-83bd6babbeb0-167387437452ab89f0-0",
+        "template--14607150252129__5a023a80-ef66-408f-af66-83bd6babbeb0-167387437452ab89f0-1",
+        "template--14607150252129__5a023a80-ef66-408f-af66-83bd6babbeb0-167387437452ab89f0-2"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
       }
     },
     "aca6b10c-fe1a-46a8-be2d-37f7600cc67e": {
@@ -358,6 +408,7 @@
     "42b226d4-d157-416f-94f5-a746691d1153",
     "ace91ee3-541a-419a-9067-ebcf573e7804",
     "7723dbff-e1ff-4f53-8044-89c060b0a74d",
+    "5a023a80-ef66-408f-af66-83bd6babbeb0",
     "aca6b10c-fe1a-46a8-be2d-37f7600cc67e",
     "2a339dcb-b03a-4793-b835-e1a319f410dc",
     "a46e21e3-ad42-407a-b909-36fd03141225",
