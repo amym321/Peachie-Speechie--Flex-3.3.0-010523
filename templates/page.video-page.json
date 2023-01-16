@@ -198,6 +198,71 @@
         "css_class": "",
         "custom_css": "div.container {\nmargin-top: -30px;\n}"
       }
+    },
+    "2f7cf16c-64dd-45b1-bbac-de8959a25639": {
+      "type": "index__video",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "autoplay": false,
+        "autoloop": true,
+        "mute_video": false,
+        "controls": true,
+        "iframe_video": "https:\/\/youtu.be\/ihcpLB1W9l4",
+        "html5_video": "",
+        "pretext": "",
+        "title": "",
+        "subtitle": "",
+        "pretext_color": "#000000",
+        "heading_color": "#000000",
+        "subheading_color": "#000000",
+        "horizontal_text_position": "center",
+        "vertical_text_position": "end",
+        "text_align": "center",
+        "button_label": "",
+        "button_style": "button--secondary",
+        "overlay_style": "none",
+        "video_overlay_color": "#ffffff",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 180,
+        "background_opacity": 74,
+        "text_width": 70,
+        "mobile_text_below_video": false,
+        "pretext_color_mobile": "rgba(0,0,0,0)",
+        "heading_color_mobile": "rgba(0,0,0,0)",
+        "subheading_color_mobile": "rgba(0,0,0,0)",
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "fadeIn",
+        "css_class": "",
+        "custom_css": ".plyr--full-ui.plyr--video .plyr__control--overlaid{display:none;}\n.video__subtitle {\n  background-color: #F6F5F0; \n  padding-top: 7px;\n  padding-right: 15px;\n  padding-bottom: 10px;\n  padding-left: 15px;\n  border-radius: 0px;\n  font-size: 14px;\n  font-weight: 400;\n  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);\n}\nh3 {\n  position: absolute;\n  bottom: 0%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: fit-content;\n}\nh3:hover {\n   background-color: #DFBE2A;\n   transition: all 50ms ease;\n   color: black;\n   text-decoration: underline;\n}"
+      }
+    },
+    "cdc6b15a-5de7-4867-97ed-7fa8c2b82934": {
+      "type": "index__heading",
+      "settings": {
+        "preheading": "",
+        "title": "Chaining for the R Sound",
+        "subheading": "<p>Download: <a href=\"https:\/\/peachiespeechie.com\/collections\/r-sound-materials\/products\/r-sound-chaining-for-speech-therapy\" target=\"_blank\" title=\"https:\/\/peachiespeechie.com\/collections\/r-sound-materials\/products\/r-sound-chaining-for-speech-therapy\">R Sound Chaining Workbook<\/a><\/p>",
+        "preheading_color": "rgba(0,0,0,0)",
+        "heading_color": "rgba(0,0,0,0)",
+        "subheading_color": "rgba(0,0,0,0)",
+        "background": "rgba(0,0,0,0)",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "heading_alignment": "center",
+        "vertical_spacing": "small",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "div.container {\nmargin-top: -30px;\n}"
+      }
     }
   },
   "order": [
@@ -206,6 +271,8 @@
     "42b226d4-d157-416f-94f5-a746691d1153",
     "7723dbff-e1ff-4f53-8044-89c060b0a74d",
     "2a339dcb-b03a-4793-b835-e1a319f410dc",
-    "a46e21e3-ad42-407a-b909-36fd03141225"
+    "a46e21e3-ad42-407a-b909-36fd03141225",
+    "2f7cf16c-64dd-45b1-bbac-de8959a25639",
+    "cdc6b15a-5de7-4867-97ed-7fa8c2b82934"
   ]
 }
