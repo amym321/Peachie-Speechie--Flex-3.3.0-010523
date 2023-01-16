@@ -47,7 +47,7 @@
         "horizontal_text_position": "center",
         "vertical_text_position": "end",
         "text_align": "center",
-        "button_label": "Download: R Sound Chaining Workbook",
+        "button_label": "",
         "button_style": "button--secondary",
         "overlay_style": "none",
         "video_overlay_color": "#ffffff",
