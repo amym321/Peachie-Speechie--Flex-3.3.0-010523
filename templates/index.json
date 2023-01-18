@@ -813,6 +813,12 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "4099f396-fb53-4b65-be70-07a7cb3448ad": {
+      "type": "marquee",
+      "settings": {
+        "marquee": "This is a test of the marquee"
+      }
     }
   },
   "order": [
@@ -837,6 +843,7 @@
     "1668045921919103f4",
     "16637234893e9f9cc7",
     "1663768807f273594f",
-    "166376903321a25946"
+    "166376903321a25946",
+    "4099f396-fb53-4b65-be70-07a7cb3448ad"
   ]
 }
