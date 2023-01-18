@@ -813,20 +813,6 @@
         "css_class": "",
         "custom_css": ""
       }
-    },
-    "0fdf5c6a-f826-49dd-b155-020b97332d0c": {
-      "type": "index__html",
-      "settings": {
-        "html_content": "<div class=\"section-marquee\">\n \n\n<div id=\"marquee\" class=\"bg-black c-white x oh marquee submit df aic pv10 m:pv20   js-scroll-reveal\" style=\"white-space:nowrap;\" data-component=\"marquee\">\n    <div class=\"marquee-text lh105 dir-rightLeft f24 m:f48 mono marquee-margin--medium\" style=\"animation-duration: 33s\">\n        <span class=\"marquee-block\">\n    A new tattoo for a brand new you.\n    \n    <a class=\"btn  cta-ref tc   bw1 bs-solid bg- c-white ass\" href=\"\/how-it-works\">Learn more now.<\/a>\n  \n<\/span>\n        <span class=\"marquee-block\">\n    A new tattoo for a brand new you.\n\n    <a class=\"btn  cta-ref tc   bw1 bs-solid bg- c-white ass\" href=\"\/how-it-works\">Learn more now.<\/a>\n\n<\/span>\n        <span class=\"marquee-block\">\n    A new tattoo for a brand new you.\n    \n\n    <a class=\"btn  cta-ref tc   bw1 bs-solid bg- c-white ass\" href=\"\/how-it-works\">Learn more now.<\/a>\n\n<\/span>\n        <span class=\"marquee-block\">\n    A new tattoo for a brand new you.\n    \n\n    <a class=\"btn  cta-ref tc   bw1 bs-solid bg- c-white ass\" href=\"\/how-it-works\">Learn more now.<\/a>\n  \n<\/span>\n        <span class=\"marquee-block\">\n    A new tattoo for a brand new you.\n\n  \n    <a class=\"btn  cta-ref tc   bw1 bs-solid bg- c-white ass\" href=\"\/how-it-works\">Learn more now.<\/a>\n  \n<\/span>\n        <span class=\"marquee-block\">\n    A new tattoo for a brand new you.\n\n  \n    <a class=\"btn  cta-ref tc   bw1 bs-solid bg- c-white ass\" href=\"\/how-it-works\">Learn more now.<\/a>\n  \n<\/span>\n        <span class=\"marquee-block\">\n    A new tattoo for a brand new you.\n    \n    <a class=\"btn  cta-ref tc   bw1 bs-solid bg- c-white ass\" href=\"\/how-it-works\">Learn more now.<\/a>\n\n<\/span>\n        <span class=\"marquee-block\">\n    A new tattoo for a brand new you.\n   \n     <a class=\"btn  cta-ref tc   bw1 bs-solid bg- c-white ass\" href=\"\/how-it-works\">Learn more now.<\/a>\n \n<\/span>\n        <span class=\"marquee-block\">\n    A new tattoo for a brand new you.\n    \n    <a class=\"btn  cta-ref tc   bw1 bs-solid bg- c-white ass\" href=\"\/how-it-works\">Learn more now.<\/a>\n  \n<\/span>\n        <span class=\"marquee-block\">\n    A new tattoo for a brand new you.\n    \n    <a class=\"btn  cta-ref tc   bw1 bs-solid bg- c-white ass\" href=\"\/how-it-works\">Learn more now.<\/a>\n\n<\/span>\n    <\/div>\n<\/div>\n\n  <\/div>\n\n  <div class=\"section-messaging\">\n    \n<div id=\"press-copy\" class=\"bg-white c-oblack f24 m:f48 m:light tc pt10 pb10 ph20 m:ph40 m:pt20 m:pb20 grid pt50 m:pt80 pb10 m:pb20 js-scroll-reveal js-scroll-reveal-text\"><\/div>\n<\/div>",
-        "width": "standard",
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "padding_left": 0,
-        "padding_right": 0,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
     }
   },
   "order": [
@@ -851,7 +837,6 @@
     "1668045921919103f4",
     "16637234893e9f9cc7",
     "1663768807f273594f",
-    "166376903321a25946",
-    "0fdf5c6a-f826-49dd-b155-020b97332d0c"
+    "166376903321a25946"
   ]
 }
