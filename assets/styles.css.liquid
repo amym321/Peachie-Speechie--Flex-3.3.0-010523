@@ -18063,3 +18063,25 @@ ul.faceted-filter-group-display__list {
 .purchase-details__buttons .slidecart-form-error {
   display: none !important;
 }
+
+.marquee-container {
+  overflow: hidden;
+}
+.marquee {
+  margin: 0;
+  display: inline-block;
+}
+.marquee-words {
+  white-space: nowrap;
+  animation: marquee-keywords 15s linear infinite;
+  font-size: 20px;
+  letter-spacing: 0.2em;
+}
+@keyframes marquee-keywords {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
