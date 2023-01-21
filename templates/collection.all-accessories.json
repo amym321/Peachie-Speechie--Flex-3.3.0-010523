@@ -141,8 +141,8 @@
         "3c198611-12f0-472e-9b49-6d20955e97c4": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
-            "title": "",
+            "feature_collection": "buttons",
+            "title": "Shop Buttons",
             "button_label": ""
           }
         }
