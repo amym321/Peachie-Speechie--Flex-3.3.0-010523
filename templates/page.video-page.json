@@ -55,10 +55,23 @@
     "ace91ee3-541a-419a-9067-ebcf573e7804": {
       "type": "index__featured-promotions",
       "blocks": {
+        "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Language_Skills_Video_Button_c405b831-3eb0-4408-bb69-9178ed72c9a9.png",
+            "link": "https:\/\/peachiespeechie.com\/pages\/peachie-speechie-language-skills-videos",
+            "overlay_background": "rgba(0,0,0,0)",
+            "overlay_background_opacity": 70,
+            "overlay_text": "rgba(0,0,0,0)",
+            "icon_label": "",
+            "title": "",
+            "text": ""
+          }
+        },
         "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/R_Sound_Video_Button_deec6ac5-6a15-48c2-a857-63f81caedd8e.png",
+            "image": "shopify:\/\/shop_images\/R_Sound_Video_Button_dcbb6c61-7870-4690-9af6-6fc214913ed8.png",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
@@ -71,7 +84,7 @@
         "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/FluencyVideo_Button_9da176e5-efcb-42e3-af77-522c594ee7c9.png",
+            "image": "shopify:\/\/shop_images\/FluencyVideo_Button_2404da4c-f920-4709-bd7f-c852538e1f96.png",
             "link": "https:\/\/peachiespeechie.com\/pages\/peachie-speechie-fluency-videos",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 0,
@@ -80,25 +93,12 @@
             "title": "",
             "text": ""
           }
-        },
-        "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Language_Skills_Video_Button_aec1bcc7-91d2-479d-97f7-3fb1f5548428.png",
-            "link": "https:\/\/peachiespeechie.com\/pages\/peachie-speechie-language-skills-videos",
-            "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 70,
-            "overlay_text": "rgba(0,0,0,0)",
-            "icon_label": "",
-            "title": "",
-            "text": ""
-          }
         }
       },
       "block_order": [
+        "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-2",
         "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-0",
-        "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-1",
-        "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-2"
+        "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-1"
       ],
       "settings": {
         "border_radius": 0,
