@@ -126,6 +126,7 @@
           "type": "collection",
           "settings": {
             "feature_collection": "mouse-pads-laptop-sleeves",
+            "image": "shopify:\/\/shop_images\/speechie-vibes-laptop-sleeve.jpg",
             "title": "Shop mousepads & Laptop Sleeves",
             "button_label": ""
           }
