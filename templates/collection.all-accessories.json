@@ -108,7 +108,8 @@
         "1df349b5-ae21-4530-8a36-ec3341ece4d2": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
+            "feature_collection": "all",
+            "image": "shopify:\/\/shop_images\/Word-Bubble-SLP-Poster-by-Peachie-Speechie.jpg",
             "title": "",
             "button_label": ""
           }
@@ -178,56 +179,6 @@
         "custom_css": ".title {\nfont-size:14px;\n}\n.title{\ntext-decoration:underline;\n}\n.title:hover {\ntext-decoration:none;\n}"
       }
     },
-    "08434176-718e-40dd-91c9-54dd3d315e23": {
-      "type": "index__featured-promotions",
-      "blocks": {
-        "b239f842-e37a-433f-b5f8-6b85d7be3e21": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/candle.png",
-            "link": "shopify:\/\/collections\/candles",
-            "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 0,
-            "overlay_text": "#000000",
-            "icon_label": "",
-            "title": "shop candles",
-            "text": ""
-          }
-        },
-        "6fc9a754-bc43-4aa2-888f-cd0152da5da4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Word-Bubble-SLP-Poster-by-Peachie-Speechie.jpg",
-            "link": "shopify:\/\/collections\/all",
-            "overlay_background": "rgba(0,0,0,0)",
-            "overlay_background_opacity": 70,
-            "overlay_text": "#000000",
-            "icon_label": "",
-            "title": "shop posters & pennants",
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "b239f842-e37a-433f-b5f8-6b85d7be3e21",
-        "6fc9a754-bc43-4aa2-888f-cd0152da5da4"
-      ],
-      "settings": {
-        "border_radius": 0,
-        "crop_images": true,
-        "overlay_background": "#939393",
-        "overlay_background_opacity": 0,
-        "overlay_text": "#ffffff",
-        "show_border": false,
-        "width": "standard",
-        "show_gutter": true,
-        "padding_top": 0,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": "h3 {\n  background-color: #F6F5F0; \n  padding-top: 7px;\n  padding-right: 15px;\n  padding-bottom: 10px;\n  padding-left: 15px;\n  border-radius: 0px;\n  font-size: 14px;\n  font-weight: 400;\n  box-shadow: 1px 3px 4px rgba(0, 0, 0, 0.5);\n}\nh3 {\n  position: absolute;\n  bottom: 0%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  width: fit-content;\n}\nh3:hover {\n   background-color: #DFBE2A;\n   transition: all 50ms ease;\n   color: black;\n   text-decoration: underline;\n}"
-      }
-    },
     "main": {
       "type": "collection__main",
       "settings": {
@@ -291,7 +242,6 @@
     "subcollections",
     "b9be090d-085e-4385-8d5e-a19120b043dc",
     "706debba-5272-4e6b-84e1-a3e959a94093",
-    "08434176-718e-40dd-91c9-54dd3d315e23",
     "main",
     "1ff5521b-bfbf-4f53-b22e-4da364bfc36c"
   ]
