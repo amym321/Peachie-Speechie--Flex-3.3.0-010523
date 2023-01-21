@@ -81,9 +81,9 @@
         "template--14606542667873__706debba-5272-4e6b-84e1-a3e959a94093-1674273861f1e3c2f0-2": {
           "type": "collection",
           "settings": {
-            "feature_collection": "notebooks-clipboards",
+            "feature_collection": "stationary",
             "image": "shopify:\/\/shop_images\/Screen_Shot_2023-01-10_at_9.50.53_PM.png",
-            "title": "Shop Notebooks & Clipboards",
+            "title": "Shop Stationary & Stickers",
             "button_label": ""
           }
         },
@@ -132,6 +132,7 @@
         },
         "1c387525-e5ba-4d66-afb8-0e66bf532e31": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "stickers-and-magnets",
             "title": "Shop Stickers & Magnets",
@@ -140,6 +141,7 @@
         },
         "3c198611-12f0-472e-9b49-6d20955e97c4": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "feature_collection": "buttons",
             "title": "Shop Buttons",
@@ -160,7 +162,7 @@
         "3c198611-12f0-472e-9b49-6d20955e97c4"
       ],
       "settings": {
-        "collections_per_row": 5,
+        "collections_per_row": 4,
         "align_height": false,
         "collection_height": 400,
         "enable_zoom": true,
