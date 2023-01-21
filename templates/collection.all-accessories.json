@@ -118,6 +118,7 @@
           "type": "collection",
           "settings": {
             "feature_collection": "pillows",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-01-21_at_9.33.31_AM.png",
             "title": "Shop Blankets & Tapestries",
             "button_label": ""
           }
