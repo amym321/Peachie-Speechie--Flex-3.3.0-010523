@@ -72,7 +72,7 @@
           "type": "collection",
           "settings": {
             "feature_collection": "hats",
-            "title": "shop caps & beanies",
+            "title": "Shop Caps & Beanies",
             "button_label": ""
           }
         },
@@ -80,7 +80,7 @@
           "type": "collection",
           "settings": {
             "feature_collection": "stationary",
-            "title": "shop stickers & stationary",
+            "title": "Shop Stickers & Stationary",
             "button_label": ""
           }
         }
@@ -98,7 +98,7 @@
         "button_style": "button--secondary",
         "overlay_background": "#939393",
         "overlay_background_opacity": 0,
-        "overlay_text": "#FFFFFF",
+        "overlay_text": "#ffffff",
         "collection_title_below_image": true,
         "hide_title_cta": false,
         "width": "standard",
