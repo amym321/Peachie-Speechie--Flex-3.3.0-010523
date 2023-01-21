@@ -353,7 +353,7 @@
     },
     "recover_password": {
       "title": "Reset Password",
-      "subtext": "We will send you an email to reset your password.",
+      "subtext": "We will send an email to reset your password. If you don't receive it, email support@peachiespeechie.com so we can help.",
       "success": "We've sent you an email with a link to update your password.",
       "email": "Email address",
       "submit": "Submit",
