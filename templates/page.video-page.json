@@ -103,7 +103,7 @@
       "settings": {
         "border_radius": 0,
         "crop_images": false,
-        "overlay_background": "#939393",
+        "overlay_background": "#000000",
         "overlay_background_opacity": 0,
         "overlay_text": "#000000",
         "show_border": false,
