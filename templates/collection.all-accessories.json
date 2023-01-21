@@ -80,6 +80,7 @@
           "type": "collection",
           "settings": {
             "feature_collection": "stationary",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-01-10_at_9.50.53_PM.png",
             "title": "Shop Stickers & Stationary",
             "button_label": ""
           }
