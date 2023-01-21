@@ -58,38 +58,39 @@
         "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/R-Words-Video-Cover.jpg",
+            "image": "shopify:\/\/shop_images\/R_Sound_Video_Button_deec6ac5-6a15-48c2-a857-63f81caedd8e.png",
             "link": "",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
             "icon_label": "",
-            "title": "R Sound Videos",
+            "title": "",
             "text": ""
           }
         },
         "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pull-outs-and-cancellations-video-cover.jpg",
+            "image": "shopify:\/\/shop_images\/FluencyVideo_Button_9da176e5-efcb-42e3-af77-522c594ee7c9.png",
             "link": "https:\/\/peachiespeechie.com\/pages\/peachie-speechie-fluency-videos",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 0,
             "overlay_text": "rgba(0,0,0,0)",
             "icon_label": "",
-            "title": "Fluency Videos",
+            "title": "",
             "text": ""
           }
         },
         "template--14607150252129__ace91ee3-541a-419a-9067-ebcf573e7804-1673874373594b8e08-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Language_Skills_Video_Button_aec1bcc7-91d2-479d-97f7-3fb1f5548428.png",
             "link": "https:\/\/peachiespeechie.com\/pages\/peachie-speechie-language-skills-videos",
             "overlay_background": "rgba(0,0,0,0)",
             "overlay_background_opacity": 70,
             "overlay_text": "rgba(0,0,0,0)",
             "icon_label": "",
-            "title": "Language Skills Videos",
+            "title": "",
             "text": ""
           }
         }
@@ -101,7 +102,7 @@
       ],
       "settings": {
         "border_radius": 0,
-        "crop_images": true,
+        "crop_images": false,
         "overlay_background": "#939393",
         "overlay_background_opacity": 0,
         "overlay_text": "#000000",
