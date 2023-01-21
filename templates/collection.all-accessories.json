@@ -99,8 +99,9 @@
         "a5eeac9b-8f44-4e0b-b02c-a2d9d5afa6d1": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
-            "title": "",
+            "feature_collection": "candles",
+            "image": "shopify:\/\/shop_images\/candle.png",
+            "title": "Shop Candles",
             "button_label": ""
           }
         },
