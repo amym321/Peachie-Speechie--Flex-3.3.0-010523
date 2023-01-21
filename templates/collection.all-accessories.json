@@ -57,6 +57,59 @@
         "custom_css": ""
       }
     },
+    "706debba-5272-4e6b-84e1-a3e959a94093": {
+      "type": "index__collection-list",
+      "blocks": {
+        "template--14606542667873__706debba-5272-4e6b-84e1-a3e959a94093-1674273861f1e3c2f0-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "bags-wallets",
+            "title": "shop bags & wallets",
+            "button_label": ""
+          }
+        },
+        "template--14606542667873__706debba-5272-4e6b-84e1-a3e959a94093-1674273861f1e3c2f0-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "hats",
+            "title": "shop caps & beanies",
+            "button_label": ""
+          }
+        },
+        "template--14606542667873__706debba-5272-4e6b-84e1-a3e959a94093-1674273861f1e3c2f0-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "stationary",
+            "title": "shop stickers & stationary",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14606542667873__706debba-5272-4e6b-84e1-a3e959a94093-1674273861f1e3c2f0-0",
+        "template--14606542667873__706debba-5272-4e6b-84e1-a3e959a94093-1674273861f1e3c2f0-1",
+        "template--14606542667873__706debba-5272-4e6b-84e1-a3e959a94093-1674273861f1e3c2f0-2"
+      ],
+      "settings": {
+        "collections_per_row": 5,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": true,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 0,
+        "overlay_text": "#FFFFFF",
+        "collection_title_below_image": true,
+        "hide_title_cta": false,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ".title {\nfont-size:14px;\n}"
+      }
+    },
     "82d1622b-b4c4-41ed-8991-f7c9ea1d2870": {
       "type": "index__featured-promotions",
       "blocks": {
@@ -269,6 +322,7 @@
     "banner",
     "subcollections",
     "b9be090d-085e-4385-8d5e-a19120b043dc",
+    "706debba-5272-4e6b-84e1-a3e959a94093",
     "82d1622b-b4c4-41ed-8991-f7c9ea1d2870",
     "433d34c9-1afc-42da-b39c-9876ac3be1ad",
     "08434176-718e-40dd-91c9-54dd3d315e23",
