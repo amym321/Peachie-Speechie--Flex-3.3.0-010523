@@ -107,7 +107,7 @@
         "padding_bottom": 20,
         "animation": "none",
         "css_class": "",
-        "custom_css": ".title {\nfont-size:14px;\n}\n.title:hover {\ntext-decoration:underline;\n}"
+        "custom_css": ".title {\nfont-size:14px;\n}\n.title{\ntext-decoration:underline;\n}\n.title:hover {\ntext-decoration:none;\n}"
       }
     },
     "82d1622b-b4c4-41ed-8991-f7c9ea1d2870": {
