@@ -81,9 +81,9 @@
         "template--14606542667873__706debba-5272-4e6b-84e1-a3e959a94093-1674273861f1e3c2f0-2": {
           "type": "collection",
           "settings": {
-            "feature_collection": "journals-notebooks",
+            "feature_collection": "notebooks-clipboards",
             "image": "shopify:\/\/shop_images\/Screen_Shot_2023-01-10_at_9.50.53_PM.png",
-            "title": "Shop Journals & Notebooks",
+            "title": "Shop Notebooks & Clipboards",
             "button_label": ""
           }
         },
