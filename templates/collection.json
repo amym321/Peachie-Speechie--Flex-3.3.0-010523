@@ -30,7 +30,7 @@
         "collection_height": 200,
         "products_per_row": 4,
         "mobile_products_per_row": "2",
-        "pagination_limit": 28,
+        "pagination_limit": 32,
         "pagination_type": "infinite_scroll",
         "width": "standard",
         "padding_top": 40,
