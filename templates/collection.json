@@ -36,7 +36,7 @@
         "padding_top": 40,
         "padding_bottom": 40,
         "css_class": "",
-        "custom_css": ".banner__heading, .banner__subheading {\ncolor: #FFF;\nfont-weight: 700;\ntext-shadow: 2px 2px  3px#000000;\n}\n.pagination a {\n  border-radius: 100px;\n}\n\n@media only screen and (max-width: 480px) {\n   .thumbnail-swatch { display: none; }\n  }"
+        "custom_css": ".banner__heading, .banner__subheading {\ncolor: #FFF;\nfont-weight: 700;\ntext-shadow: 2px 2px  3px#000000;\n}\n.pagination a {\n  border-radius: 100px;\n}"
       }
     }
   },
